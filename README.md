@@ -1,7 +1,9 @@
 # App-builder-examples
 See examples of how to create apps with Reading App Builder (RAB) or Scripture App Builder (SAB). You can download these app builders at:
    - https://software.sil.org/readingappbuilder (RAB)
+      - https://software.sil.org/readingappbuilder/resources/ (Documentation) 
    - https://software.sil.org/scriptureappbuilder
+      - https://software.sil.org/scriptureappbuilder/resources/ (Documentation) 
 
 These files utilize USFM- Unified Style Format Markers. You can look them up at 
    - https://ubsicap.github.io/usfm/genindex.html
