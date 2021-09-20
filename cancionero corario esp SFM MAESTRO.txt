@@ -1,0 +1,6088 @@
+\id B001
+
+\toc2 ¡Alabemos al Señor! Alabanzas Panatahuas traducidas al castellano
+\imt Para entender:
+\ip  
+\iot ¿Qué son estos iconos?
+\ip Estos iconos dan información de cada alabanza. Pero no son botones para presionar.
+\ip • 🎻 indica que esta alabanza tiene una grabación que se puede escuchar. 
+\ip • 📖 indica que cuando la grabación se reproduce, las líneas de la alabanza van resaltándose con la música.
+
+\ip  
+\iot ¿Cómo escucho las alabanzas?
+\ip Para escuchar una grabación: 
+\ili  1.	Abra una alabanza. Ricay juc birsuta.
+\ili  2.	Presione el botón que parece un altavoz, que está en la parte superior derecha. Tiene esta forma:
+\ili3 \fig |Altavoz50x50.jpg|span||||\fig*
+\ili  3.	Presione el botón que tiene forma de triángulo, que está al pie de la pantalla. Tiene esta forma:
+\ili3 \fig |Play50x50.jpg|span||||\fig*
+\ili Nota importante: Muchas de estas grabaciones son muy antiguas. En algunos casos, las letras de las grabaciones no coinciden por completo con las letras actuales. Ambas versiones son buenas para cantar. Un asterisco (*) indica que hay una diferencia en la grabación.
+
+\ip  
+\iot ¿Cómo entender el significado de las alabanzas?
+\ip Hay una traducción al castellano para aquellos que estamos fortaleciendo nuestro domino del quechua. Para ver la traducción de castellano junto con el quechua, siga los siguientes pasos:
+\ili  1.	Si usted está viendo las letras de una canción, toque la flecha. Tiene esta forma:
+\ili3 \fig |BackArrow50x50.jpg|span||||\fig*
+\ili  2.	Toque el símbolo del menú. Está en la parte superior izquierda. Tiene esta forma:
+\ili3 \fig |Hamburger50x50edited.jpg|span||||\fig*
+\ili  3.	Seleccione “Idioma y Diseño”
+\ili  4.	Usted verá dos cajas. Seleccione la que aparece por la derecha, donde dice “Quechua y castellano”. Tiene esta forma:
+\ili3 \fig |TwoPanes63x63.jpg|span||||\fig*
+\ili  5.	Seleccione “OK”.
+\ili  6.	Ahora usted puede ver las alabanzas en quechua y también su significado en castellano. 
+\ip \ul Notas importantes\ul*:
+\ili • La traducción al castellano no es una versión final, y está en desarrollo.
+\ili • El propósito de esta traducción es para entender el quechua. No es útil para cantar, ya que no mantiene un ritmo que coincida con la música.
+\ip  
+\iot ¿Cómo informo un error?
+\ip Si has encontrado un error en el texto o en la sincronización, o si ustedes en su iglesia o comunidad cantan una canción un poco diferente, por favor ¡ayúdenos! Escríbanos e indíquenos cómo podemos mejorar la aplicación.
+\ip Por favor:
+\ip  
+\ili2  1.	En el rincón superior izquierda, marca la flechita
+\ili3 \fig |BackArrow50x50.jpg|span||||\fig*
+\ili2  2.	Marca el botón de menú
+\ili3 \fig |Hamburger50x50edited.jpg|span||||\fig*
+\ili2  3.	Marca "Información y contactos" 
+\ili2  4.	Marca el botón verde "Sugerir Cambios".
+\ip  
+\iot ¿Cómo consigo este libro de alabanzas impreso?
+\ip ¡Nosotros (JAWCA) los tenemos a la venta! Su precio en 2020 son S/. 5 cada uno e incluyen estas 175 alabanzas. Comunicase con nosotros para más información.
+\ip 
+\iot Puede escribirnos a:
+\ili • Facebook: facebook.com/jawcaquechua
+\ili • WhatsApp: +1.425.829.6983
+\ili • Llamada o SMS: 938.405.223
+\ip ¡Yulsulpallä!
+\iot ¿Cómo vuelvo a las alabanzas?
+\ip seleciona "i" en la parte superior, y luego, cualquier número.
+
+\c 1 
+
+\s Al Señor Adoremos (Tayta Diosninchita Adoraculläshun)
+\s2 Esto canta Demetrio Soto Carbajal
+\s2 de Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Al Señor adoraremos
+\q1 a su hijo salvador que envió.
+\q1 Al Señor adoraremos
+\q1 a su hijo salvador que envió.
+\q1 Si vivimos en pecado separados estamos.
+\q1 Dios estará mirándonos.
+\q1 Si vivimos en pecado separados estamos.
+\q1 Dios estará mirándonos.
+\b 
+\s2 2
+\q1 A su amado hijo Dios envió
+\q1 para llevar a Dios a los extraviados.
+\q1 A su amado hijo Dios envió
+\q1 para llevar a Dios a los extraviados.
+\q1 Muriendo en la cruz derramó su sangre
+\q1 para salvar a los pecadores.
+\q1 Muriendo en la cruz derramó su sangre
+\q1 para salvar a los pecadores.
+\b 
+\s2 3
+\q1 El Señor Jesucristo nos ama bien.
+\q1 Recibamos a su hijo amado.
+\q1 El Señor Jesucristo nos ama bien.
+\q1 Recibamos a su hijo amado.
+\q1 Nosotros sabemos que vamos a morir.
+\q1 Ahora confía en Dios.
+\q1 Nosotros sabemos que vamos a morir.
+\q1 Ahora confía en Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1\c 2 
+
+\s Dios Bien Nos Ama (Diosninchimi Sumaj Cuyacuj)
+\s2 Esto canta «Los Serafines de Yaurín»
+\s2 Conchamarca, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios bien nos ama.
+\q1 Nos perdona nuestro pecado.
+\q1 Los hombres se odian
+\q1 si no reciben a Jesús.
+\q1 Los hombres se odian
+\q1 si no reciben a Jesús.
+\b 
+\s2 2
+\q1 Jesucristo volverá.
+\q1 Lo veremos todos.
+\q1 Cuando Jesús nos recoge
+\q1 Transformaremos igual a él.
+\q1 Cuando Jesús nos recoge
+\q1 Transformaremos igual a él.
+\b 
+\s2 3
+\q1 Hermano (hermana), esperemos.
+\q1 Dejemos nuestros pecados.
+\q1 Si somos de él, sin pecado
+\q1 iremos todos.
+\q1 Si somos de él, sin pecado
+\q1 iremos todos.
+\b 
+\s2 4
+\q1 Hermano (hermana), hay que pensar
+\q1 para vivir bien.
+\q1 Haciendo el bien, somos sus hijos.
+\q1 Como Dios seremos amorosos.
+\q1 Haciendo el bien, somos sus hijos.
+\q1 Como Dios seremos amorosos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 3 
+
+\s Hermano (hermana), No Tengas Pena (Waugui‑Panillä, (Ñaña‑Turillä), Llaquicuynachu)
+\s2 Esto canta «Los Serafines de Yaurín»
+\s2 Conchamarca, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermano (hermana), no tengas pena.
+\q1 Confiemos a Jesucristo.
+\q1 Vámonos arriba al cielo.
+\q1 Muy contentos viviremos.
+\q1 Muy contentos viviremos.
+\b 
+\s2 2
+\q1 Malos hechos, todas enfermedades,
+\q1 todo lo que hay en esta tierra.
+\q1 Cuando lleguemos al cielo, ya no sufriremos.
+\q1 Muy contentos viviremos.
+\q1 Muy contentos viviremos.
+\b 
+\s2 3
+\q1 Delante del Jesucristo
+\q1 viviremos sólo alabando a él.
+\q1 Todos cantando, adoraremos.
+\q1 Muy contentos alabaremos.
+\q1 Muy contentos alabaremos.
+\b 
+\s2 4
+\q1 Ven hermano (hermana), no tengas miedo.
+\q1 Deja de hacer pecado.
+\q1 Si no recibes a Jesús
+\q1 en el infierno llorarás.
+\q1 en el infierno llorarás.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 4 
+
+\s A ti te adoro (Jamta Adurajmi)
+\s2 Esta alabanza canta
+\s2 «Yayaq Camachin», Cusco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 A ti te adoro, Dios de misericordia.
+\q1 A ti te alabaré, Señor Jesucristo.
+\q1 Eres amoroso, me das vida.
+\q1 Me perdonas, me das gozo.
+\b 
+\s2 2
+\q1 Te acordaste de arriba del cielo
+\q1 para que sufres en La Calavera.
+\q1 Si los pecadores vivan bien,
+\q1 de sus pecados sean perdonados.
+\b 
+\s2 3
+\q1 Eres tú Cristo, mi perdonador.
+\q1 Eres tú Jesús, Hijo de Dios Altísimo.
+\q1 Me compraste con tu sangre,
+\q1 con tu poder me has curado.
+\b 
+\s2 4
+\q1 Por eso te entrego todo mi corazón.
+\q1 Por eso te entrego toda mi vida.
+\q1 Cuando tú vives en mi corazón, me enseñas.
+\q1 Cuando tú vives en mi corazón, me das vida.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 5 
+
+\s Todos alabemos al señor (Alabashun Tayta Diosta)
+\s2 Esto canta «Diospa Camachisqancuna»
+\s2 Huancavelicapita
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Todos alabemos al Señor,
+\q1 todos.
+\q1 Adoremos, serviremos
+\q1 a Cristo Jesús.
+\q1 Adoremos, serviremos
+\q1 a Cristo Jesús.
+\b 
+\s2 2
+\q1 Nuestro Salvador en verdad
+\q1 nos escucha.
+\q1 No es cerro,
+\q1 no es roca.
+\q1 Es espíritu.
+\q1 No es cerro,
+\q1 no es roca.
+\q1 Es espíritu.
+\b 
+\s2 3
+\q1 En las alturas, rocas
+\q1 él formó
+\q1 los montes, animales,
+\q1 de él es todo.
+\q1 Los montes, animales,
+\q1 de él es todo.
+\b 
+\s2 4
+\q1 Hermano (hermana),
+\q1 (hermanos, hermanas),
+\q1 todos.
+\q1 Contentos, alegres
+\q1 serviremos a él.
+\q1 Contentos, alegres
+\q1 serviremos a él.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 6 
+
+\s Oh cuánto me alegro (Shungü Cushicunmi)
+\s2 «Oh cuánto me alegro» esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Oh cuánto me alegro que soy de Dios.
+\q1 Oh cuánto me alegro que soy de Dios.
+\q1 Leyendo la Biblia comprendo su amor.
+\q1 Leyendo la Biblia comprendo su amor.
+\q1 Todos mis pecados Cristo me perdonó.
+\q1 Todos mis pecados Cristo me perdonó.
+\q1 Morada en el cielo él me preparó.
+\q1 Morada en el cielo él me preparó. 
+\b 
+\s2 Coro:
+\q2 Alabemos y cantemos
+\q2 al Señor Jesús
+\q2 Alabemos y cantemos
+\q2 al Señor Jesús
+\q2 Porque ha derramado
+\q2 su sangre en la cruz.
+\q2 Porque ha derramado
+\q2 su sangre en la cruz.
+\q2 Líbrame Jesús
+\q2 de la tentación,
+\q2 Líbrame Jesús
+\q2 de la tentación.
+\q2 Contigo estaremos
+\q2 por la eternidad.
+\q2 Contigo estaremos
+\q2 por la eternidad.
+\b 
+\s2 2
+\q1 Todos mis pecados él me perdonó.
+\q1 Todos mis pecados él me perdonó.
+\q1 Él me ha salvado, para la gloria de Dios.
+\q1 Él me ha salvado, para la gloria de Dios.
+\q1 Vida nueva tengo en Cristo.
+\q1 Vida nueva tengo en Cristo.
+\q1 Todos mis pecados Cristo me perdonó.
+\q1 Todos mis pecados Cristo me perdonó.
+\b 
+\s2 Coro:
+\q2 Alabemos y cantemos
+\q2 al Señor Jesús
+\q2 Alabemos y cantemos
+\q2 al Señor Jesús
+\q2 Porque ha derramado
+\q2 su sangre en la cruz.
+\q2 Porque ha derramado
+\q2 su sangre en la cruz.
+\q2 Líbrame Jesús
+\q2 de la tentación,
+\q2 Líbrame Jesús
+\q2 de la tentación.
+\q2 Contigo estaremos
+\q2 por la eternidad.
+\q2 Contigo estaremos
+\q2 por la eternidad.
+\b \b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 07
+
+\s Con su poder Dios me cuida (Diosnilläga Munayninwan Ricalläman)
+\s2 Esta alabanza cantó Florencio Segura
+\s2 Andahuaylas
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Con su poder Dios me cuida
+\q1 en alturas, en mi casa.
+\q1 Aire frío, cuando viene la lluvia,
+\q1 con su mano me guía. 
+\b 
+\s2 Coro:
+\q2 A mí Dios lo amo,
+\q2 adoro a mi Padre.
+\q2 Alabo a mi Salvador
+\q2 que me salvó del pecado.
+\b 
+\s2 2
+\q1 Cuando me siento triste en esta tierra,
+\q1 Dios me alegra.
+\q1 Cuando la gente me odia, me habla,
+\q1 mi Dios me ama.
+\b 
+\s2 Coro:
+\q2 A mí Dios lo amo,
+\q2 adoro a mi Padre.
+\q2 Alabo a mi Salvador
+\q2 que me salvó del pecado.
+\b 
+\s2 3
+\q1 Mi Dios es bueno y amable.
+\q1 Todos los días me mira.
+\q1 Por eso le entrego mi corazón,
+\q1 para que haga lo que él quiera.
+\b 
+\s2 Coro:
+\q2 A mí Dios lo amo,
+\q2 adoro a mi Padre.
+\q2 Alabo a mi Salvador
+\q2 que me salvó del pecado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 8 
+
+\s Yo me alegro (Nuwa Cushicümi)
+\s2 Esto cantó «Diospa Wamrancuna»
+\s2 Pacayhua, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Yo me alegro
+\q1 viviendo con Jesús.
+\q1 Yo me alegro
+\q1 viviendo con Jesús.
+\q1 De lo que me salvó
+\q1 hago lo que él quiere.
+\q1 De lo que me salvó
+\q1 hago lo que él quiere.
+\b 
+\s2 2
+\q1 Jesús me guía
+\q1 a Dios Padre.
+\q1 Jesús me guía
+\q1 a Dios Padre.
+\q1 Si seguimos a él
+\q1 olvidemos al pecado.
+\q1 Si seguimos a él
+\q1 olvidemos al pecado.
+\b 
+\s2 3
+\q1 Jesús, sácame
+\q1 de hacer pecado,
+\q1 Jesús, sácame
+\q1 de hacer pecado.
+\q1 A tu lugar de gloria,
+\q1 para que me lleves.
+\q1 A tu lugar de gloria,
+\q1 para que me lleves.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 9 
+
+\s Vino Jesucristo (Jesucristu Aywamuran)
+\s2 Esto Canta Margarita Ayra Basán
+\s2 Pinkiray, Panao
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Vino Jesucristo
+\q1 dejando su gloria.
+\q1 Él nació en esta tierra
+\q1 en la ciudad de Belén.
+\b 
+\s2 2
+\q1 Jesucristo fue odiado
+\q1 por los pecadores.
+\q1 No creyeron ellos
+\q1 que era el Hijo de Dios.
+\b 
+\s2 3
+\q1 El Señor Jesucristo
+\q1 padeció por nosotros.
+\q1 Derramó su sangre
+\q1 para llevar nuestros pecados.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 10 
+
+\s Jesucristo murió y resucitó (Wañurcurmi, Jesucristo Cawarisha)
+\s2 Esto cantó «Salmista de Yanec»
+\s2 Junín
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo murió y resucitó.
+\q1 Resucitado, Jesucristo me salvó.
+\q1 Me lavó con su sangre mi corazón.
+\q1 Por eso ahora canto alegre.
+\b 
+\s2 2
+\q1 En el cielo está Jesucristo.
+\q1 Todos volveremos a esta tierra.
+\q1 Para llevar a sus hijos vendrá.
+\q1 Nos llevará al cielo para vivir.
+\b 
+\s2 3
+\q1 Allá en el cielo nos espera una casa buena.
+\q1 Día a día alegre aquí estaremos.
+\q1 Alabando a Dios, aquí estaremos.
+\q1 Alegre (alegre) viviremos para Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 11 
+
+\s Esta tierra, el cielo también Dios ve (Cay Pachata, Sïlutapis Diosmi Rican)
+\s2 No se sabe quien cantó esta alabanza
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Esta tierra, el cielo también
+\q1 Dios ve,
+\q1 también me ve.
+\q1 Comida, agua
+\q1 ha puesto para vivir alegre. 
+\b 
+\s2 Coro:
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\b 
+\s2 2
+\q1 Aunque somos pecadores,
+\q1 nos ama.
+\q1 No va a olvidar de nosotros.
+\q1 Los árboles, flores
+\q1 ha puesto para vivir alegre.
+\b 
+\s2 Coro:
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\q2 Le amo a Dios,
+\q2 con todo mi corazón le amo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 12 
+
+\s En este mundo camino (Manami Japallächu Purï)
+\s2 Esta alabanza cantó en Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En este mundo
+\q1 yo no estoy solo.
+\q1 En este mundo
+\q1 yo no estoy solo.
+\q1 Tengo a mi Cristo Jesús
+\q1 por mi fiel amigo.
+\q1 Tengo a mi Cristo Jesús
+\q1 por mi fiel amigo.
+\b 
+\s2 2
+\q1 El Espíritu Santo
+\q1 sólo me guía.
+\q1 El Espíritu Santo
+\q1 sólo me guía.
+\q1 Donde Cristo está
+\q1 allí yo viviré.
+\q1 Donde Cristo está
+\q1 allí yo viviré.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 13 
+
+\s Los sufrimientos, los odios (Ñacaycunapis, Chiquinacuypis)
+\s2 Esta alabanza cantó en Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Los sufrimientos, los odios,
+\q1 Los sufrimientos, los odios,
+\q1 de Jesús no me separará,
+\q1 de Dios no me apartará.
+\b 
+\s2 2
+\q1 Mis parientes, mis prójimos,
+\q1 Mis parientes, mis prójimos,
+\q1 de Jesús no me apartará,
+\q1 de Dios no me apartará.
+\b 
+\s2 3
+\q1 Aunque sea pobre, rico,
+\q1 Aunque sea pobre, rico,
+\q1 de Jesús no me separará,
+\q1 de Dios no me apartará.
+\b 
+\s2 4
+\q1 Enfermedades, lloros,
+\q1 Enfermedades, lloros,
+\q1 de Jesús no me separará,
+\q1 de Dios no me apartará.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 14 
+
+\s Por mi el Señor (Nuwa Raycur Señornï)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Por mí el Señor Jesucristo
+\q1 vino a esta tierra.
+\q1 Por mí el Señor Jesucristo
+\q1 vino a esta tierra.
+\q1 Derramó su sangre
+\q1 por mis pecados.
+\q1 Me dio salvación
+\q1 para ser salvado.
+\b 
+\s2 2
+\q1 Los hombres malos
+\q1 mataron a Jesús.
+\q1 Los hombres malos
+\q1 mataron a Jesús.
+\q1 Derramando su sangre,
+\q1 lavó mi corazón.
+\q1 Por eso ahora me alegro
+\q1 porque me lavó el corazón.
+\b 
+\s2 3
+\q1 Resucitando,
+\q1 al cielo se fue.
+\q1 Resucitando,
+\q1 al cielo se fue.
+\q1 De ahí él ve
+\q1 todo lo que hacemos.
+\q1 Sólo haremos lo bueno,
+\q1 lo que habló Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 15 
+
+\s Al amanecer (Pacha Waraptin)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Al amanecer, hay que cantar.
+\q1 Al anochecer, hay que pedir.
+\q1 A nuestro Dios Padre alabaremos.
+\q1 A nuestro Padre Dios pidamos en oración.
+\b 
+\s2 2
+\q1 El Señor Jesús ama.
+\q1 Cuando estoy solo, me acompaña.
+\q1 Cuando camino triste, me hace alegrar.
+\q1 Cuando cometo pecado, me perdona.
+\b 
+\s2 3
+\q1 Amigo, ven a Jesús.
+\q1 No niegues su amor.
+\q1 Te perdonará tus pecados.
+\q1 Te dará nueva vida.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 16 
+
+\s Mirando al cielo, me alegro (Sïluta Ricärir, Cushicü)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mirando al cielo, yo me alegro Señor.
+\q1 Mirando al cielo, yo me alegro Señor.
+\q1 La luna alumbra, las estrellas también.
+\q1 La luna alumbra, las estrellas también.
+\b 
+\s2 2
+\q1 Mirando al cielo, yo me alegro Señor.
+\q1 El sol brilla a toda la humanidad.
+\q1 La luna alumbra, las estrellas también.
+\q1 La luna alumbra, las estrellas también.
+\b 
+\s2 3
+\q1 Los pastos los hiciste tú.
+\q1 Las yerbas también las hiciste tú.
+\q1 La comida también para toda la humanidad.
+\q1 La comida también para toda la humanidad.
+\b 
+\s2 4
+\q1 Señor Jesucristo, a ti yo te amo.
+\q1 Todo lo que has hecho yo veo.
+\q1 Por eso te alabo con todo mi corazón.
+\q1 Por eso te alabo con todo mi corazón.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 17 
+
+\s Mi papá Dios es bueno (Tayta Dios Allimi)
+\s2 Esta alabanza se canta en San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mi Papá Dios es bueno,
+\q1 él tiene poder.
+\q1 Mi Papá Dios es bueno,
+\q1 misericordioso él es.
+\b 
+\s2 Coro:
+\q2 Nos da vida.
+\q2 Nos compadece.
+\q2 Nos fortalece.
+\q2 Nos ayuda.
+\b 
+\s2 2
+\q1 En donde estemos,
+\q1 con nosotros él está.
+\q1 En donde estemos,
+\q1 no olvida de nosotros.
+\b 
+\s2 Coro:
+\q2 Nos da vida.
+\q2 Nos compadece.
+\q2 Nos fortalece.
+\q2 Nos ayuda.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 18 
+
+\s Dios él mismo creó (Tayta Dios Camaran)
+\s2 Esto Canta Toda Iglesia
+\s2 De Cusco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios él mismo creó
+\q1 los cielos y la tierra,
+\q1 Dios él mismo creó
+\q1 los cielos y la tierra,
+\q1 el sol, la luna,
+\q1 para que ve toda gente.
+\q1 el sol, la luna,
+\q1 para que ve toda gente.
+\b 
+\s2 2
+\q1 Dios él mismo creó
+\q1 toda clase de animales,
+\q1 Dios él mismo creó
+\q1 toda clase de animales,
+\q1 peces y venados,
+\q1 para que viven en esta tierra.
+\q1 peces y venados,
+\q1 para que viven en esta tierra.
+\b 
+\s2 3
+\q1 Dios él mismo creó
+\q1 toda clase de árboles,
+\q1 Dios él mismo creó
+\q1 toda clase de árboles,
+\q1 montes y flores,
+\q1 que crecen en la tierra.
+\q1 montes y flores,
+\q1 que crecen en la tierra.
+\b 
+\s2 4
+\q1 Dios él mismo creó
+\q1 al hombre de la Tierra.
+\q1 Dios él mismo creó
+\q1 al hombre de la Tierra.
+\q1 Lo puso en buen lugar
+\q1 para que vive contento.
+\q1 Lo puso en buen lugar
+\q1 para que vive contento.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 19 
+
+\s Dios padre eres poderoso (Tayta Diosnï, Munayniyuj Canqui)
+\s2 Esto canta «Maranp'aqui Inlisya», en Cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios Padre,
+\q1 eres poderoso.
+\q1 Dios Padre,
+\q1 eres poderoso.
+\q1 Todo lo que hay
+\q1 tú lo formaste.
+\q1 Todo lo que hay
+\q1 tú lo formaste.
+\b 
+\s2 2
+\q1 Dios Padre,
+\q1 te serviré a ti.
+\q1 Dios Padre,
+\q1 te serviré a ti.
+\q1 Lo que quieras tú
+\q1 yo lo haré.
+\q1 Lo que quieras tú
+\q1 yo lo haré.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 20 
+
+\s Dios me ama (Tayta Diosnïmi Cuyaman)
+\s2 Esto canta Florencio Segura
+\s2 Andahuaylas.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios me ama.
+\q1 Sólo él me ve.
+\q1 Cuando me enfermo, me sana.
+\q1 Cuando le pido, me escucha. 
+\b 
+\s2 Coro:
+\q2 Yo camino con Dios.
+\q2 Al que me ama, en él confío.
+\q2 En donde él esté llegaré.
+\q2 A él solo serviré.
+\b 
+\s2 2
+\q1 Solo es lloro en esta tierra.
+\q1 Solo es tristeza en este mundo.
+\q1 Sólo hacer pecado.
+\q1 Todos los días son sufrimiento.
+\s2 3
+\q1 El Señor Jesús nos dice:
+\q1 «Con ustedes estaré.
+\q1 Aunque todos les odien,
+\q1 mi presencia te guiará.»
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 21 
+
+\s Roca negra (Yana Chaga)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Como roca negra
+\q1 no debe ser mi corazón.
+\q1 Cuando mi corazón esté negro,
+\q1 Dios me apartará.
+\q1 Cuando mi corazón esté negro,
+\q1 Dios me apartará. 
+\b 
+\s2 Coro:
+\q2 Como agua limpia
+\q2 debe ser mi corazón.
+\q2 Cuando soy así, Dios regresa,
+\q2 me recibe sin pecado.
+\q2 Cuando soy así, Dios regresa,
+\q2 me recibe sin pecado.
+\b 
+\s2 2
+\q1 Cuando cometemos pecado,
+\q1 nuestro corazón está lejos de Dios.
+\q1 Jesucristo con su sangre
+\q1 nos lava de nuestro pecado.
+\q1 Jesucristo con su sangre
+\q1 nos lava de nuestro pecado.
+\b 
+\s2 Coro:
+\q2 Como agua limpia
+\q2 debe ser mi corazón.
+\q2 Cuando soy así, Dios regresa,
+\q2 me recibe sin pecado.
+\q2 Cuando soy así, Dios regresa,
+\q2 me recibe sin pecado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 22 
+
+\s Iré siguiendo a Jesús (Aywashämi Jesúspa Jipallanpa)
+\s2 Esto canta «Callqui» Huanta, Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Iré, yo iré.
+\q1 Iré, yo iré,
+\q1 por su huella de Jesús,
+\q1 delante de Jesús.
+\b 
+\s2 2
+\q1 Mi Jesús abre.
+\q1 Mi Jesús abre
+\q1 la puerta de mi corazón,
+\q1 a los ojos de él.
+\b 
+\s2 3
+\q1 Mis pies caminan para Jesús.
+\q1 Con mis manos trabajaré para Jesús.
+\q1 Con mi boca predicaré para Jesús.
+\q1 En mi corazón vive Jesús.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 23 
+
+\s Los ángeles del cielo (Janaj Pacha Anjilcuna)
+\s2 Esto canta Palco, Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Los ángeles del cielo
+\q1 adoran a Dios.
+\q1 Los ángeles del cielo
+\q1 adoran a Dios.
+\q1 Cuando ellos adoran
+\q1 yo también adoraré.
+\q1 Cuando ellos adoran
+\q1 yo también adoraré.
+\b 
+\s2 2
+\q1 Cuando las aves cantan,
+\q1 ellos alaban a Dios.
+\q1 Cuando las aves cantan,
+\q1 ellos alaban a Dios.
+\q1 Cuando ellos cantan,
+\q1 yo también alabaré a Dios.
+\q1 Cuando ellos cantan,
+\q1 yo también alabaré a Dios.
+\b 
+\s2 3
+\q1 Cuando las flores florezcan,
+\q1 le dan alegría a Dios.
+\q1 Cuando las flores florezcan,
+\q1 le dan alegría a Dios.
+\q1 Entonces, yo también
+\q1 le daré alegría a Dios.
+\q1 Entonces, yo también
+\q1 le daré alegría a Dios.
+\b 
+\s2 4
+\q1 Cuando los árboles se mueven,
+\q1 anuncian de Jesús.
+\q1 Cuando los árboles se mueven,
+\q1 anuncian de Jesús.
+\q1 Cuando ellos anuncian,
+\q1 yo también anunciaré de Jesús.
+\q1 Cuando ellos anuncian,
+\q1 yo también anunciaré de Jesús.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 24 
+
+\s Hermano hermana (Cuyay Wauguillä (Ñañallä))
+\s2 Esto canta «Maranp'aqui Inlisya»
+\s2 Cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermano (hermana),
+\q1 ¿A dónde vas?
+\q1 Hermana (hermano),
+\q1 ¿A dónde vas?
+\q1 Confía en el Señor Jesús.
+\q1 Debes seguir al Señor Jesús.
+\q1 Confía en el Señor Jesús.
+\q1 Debes seguir al Señor Jesús.
+\b 
+\s2 2
+\q1 ¿Seguirás caminando en pecado?
+\q1 ¿Seguirás en tu vicio?
+\q1 Con tu pecado, con tu vicio,
+\q1 seguirás maldiciendo a Dios.
+\q1 Con tu pecado, con tu vicio,
+\q1 seguirás maldiciendo a Dios.
+\b 
+\s2 3
+\q1 Haciendo el pecado, ya no vivas,
+\q1 y malas cosas, no camines.
+\q1 Llorando de pena vivirás
+\q1 si no recibes a Dios.
+\q1 Llorando de pena vivirás
+\q1 si no recibes a Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 25 
+
+\s Si vivimos conforme su voluntad (Dios Munashannuy Cawashpanchimi)
+\s2 Esto canta Juvenal Clemente Trinidad
+\s2 Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Si vivimos conforme su voluntad
+\q1 entonces vivimos bien con toda la gente.
+\q1 Si así vivimos, llegaremos
+\q1 en la casa de Dios, delante de él.
+\b 
+\s2 2
+\q1 Cristo dijo: “Testifique mi palabra
+\q1 en cualquier lugar a toda la gente”.
+\q1 Si a él recibes, se salvarán.
+\q1 Si a él recibes, vivirán bien.
+\b 
+\s2 3
+\q1 A mi Papá Dios le amo.
+\q1 Yo le sirvo al Señor Jesús.
+\q1 Él me guía con su Espíritu Santo,
+\q1 para vivir alegremente.
+\b 
+\s2 4
+\q1 Alabaremos al Señor Jesús
+\q1 aplaudiendo con nuestras manos.
+\q1 Con nuestra boca cantaremos.
+\q1 Todos serviremos a él.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 26 
+
+\s Las estrellas del cielo (Janaj Pacha Istrïllacuna)
+\s2 Esto canta Juvenal Clemente Trinidad, Huánuco.
+\s2 En tono «Los Serafines de Yaurín», Conchamarca.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Las estrellas del cielo
+\q1 nos cuentan de su gloria.
+\q1 Las estrellas del cielo
+\q1 nos cuentan de su gloria.
+\q1 En este mundo
+\q1 yo también anunciaré de Cristo.
+\q1 En este mundo
+\q1 yo también anunciaré de Cristo.
+\b 
+\s2 2
+\q1 Lo que dijo Dios haremos
+\q1 alegres todos.
+\q1 Lo que dijo Dios haremos
+\q1 alegres todos.
+\q1 Hay casa en el cielo
+\q1 para nosotros preparada.
+\q1 Hay casa en el cielo
+\q1 para nosotros preparada.
+\b 
+\s2 3
+\q1 Jesús, ven hacia mí.
+\q1 Sólo a ti te serviremos.
+\q1 Jesús, ven hacia mí.
+\q1 Sólo a ti te serviremos.
+\q1 Todos los días ayúdame
+\q1 para hacer tu voluntad.
+\q1 Todos los días ayúdame
+\q1 para hacer tu voluntad.
+\b 
+\s2 4
+\q1 Nuestro Dios nos ama.
+\q1 Jesucristo nos llama.
+\q1 Nuestro Dios nos ama.
+\q1 Jesucristo nos llama.
+\q1 Todos nosotros hoy
+\q1 recibamos la salvación.
+\q1 Todos nosotros hoy
+\q1 recibamos la salvación.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 27 
+
+\s Cuando morimos (Caypita Aywacurga)
+\s2 Esto canta «Diospa Wamrancuna»
+\s2 Pacayhua, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando morimos,
+\q1 nada llevaremos.
+\q1 Cuando morimos,
+\q1 nada llevaremos.
+\q1 Conforme a como hemos nacido
+\q1 regresaremos allá.
+\q1 Conforme a como hemos nacido
+\q1 regresaremos allá.
+\b 
+\s2 2
+\q1 Jesús nos dijo:
+\q1 “No vivas sólo para el dinero.
+\q1 Cuando mueras,
+\q1 ¿para quién quedará?”
+\q1 Jesús nos dijo:
+\q1 “No vivas sólo para el dinero.
+\q1 Cuando mueras,
+\q1 ¿para quién quedará?”
+\b 
+\s2 3
+\q1 Los que mueren
+\q1 nada llevarán.
+\q1 Los que mueren
+\q1 nada llevarán.
+\q1 Nada llevan,
+\q1 sólo lo dejarán.
+\q1 Nada llevan,
+\q1 sólo lo dejarán.
+\b 
+\s2 4
+\q1 Alabemos a Dios
+\q1 con un corazón alegre.
+\q1 Alabemos a Dios
+\q1 con un corazón alegre.
+\q1 Él nos dará
+\q1 una casa que brilla.
+\q1 Él nos dará
+\q1 una casa que brilla.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 28 
+
+\s Cuando salimos de la iglesia (Iglesiapita Llujshicur)
+\s2 Esto canta «Voz del Creyente»
+\s2 Pacayhua, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando salimos de la iglesia,
+\q1 cuando nos vamos de la iglesia,
+\q1 no olvidemos
+\q1 a Dios.
+\q1 Cuando salimos de la iglesia,
+\q1 cuando nos vamos de la iglesia,
+\q1 no olvidemos
+\q1 a Dios.
+\b 
+\s2 2
+\q1 Espíritu Santo
+\q1 nos acompaña.
+\q1 Espíritu Santo
+\q1 nos acompaña.
+\q1 Nos escucha
+\q1 lo que hablamos.
+\q1 Nos escucha
+\q1 lo que hablamos.
+\b 
+\s2 3
+\q1 Jesús murió
+\q1 por todos nosotros.
+\q1 En La Calavera
+\q1 derramó su sangre.
+\q1 Jesús murió
+\q1 por todos nosotros.
+\q1 En La Calavera 
+\q1 derramó su sangre.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 29 
+
+\s Le seguiré y serviré (Jatiräshämi. Sirbicushämi)
+\s2 Esto canta Lircay, Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Le seguiré
+\q1 y serviré
+\q1 al Señor Jesús.
+\q1 Le seguiré
+\q1 y serviré
+\q1 al Señor Jesús.
+\b 
+\s2 Coro:
+\q2 En calor, en frío,
+\q2 sólo con él estaré,
+\q2 estaré delante de él.
+\b 
+\s2 2
+\q1 En la lluvia, en los rayos,
+\q1 sólo con él estaré
+\q1 delante de él.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 30 
+
+\s Para andar con Jesús (Jesúswan Purilläshun)
+\s2 Esto cantó Acoria, Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Para andar con Jesús
+\q1 sirviendo a él
+\q1 es necesario cumplir
+\q1 con su gran voluntad.
+\q1 Para andar con Jesús
+\q1 sirviendo a él
+\q1 es necesario cumplir
+\q1 con su gran voluntad.
+\b 
+\s2 Coro:
+\q2 Sin mirar hacia atrás,
+\q2 no volver a pecar,
+\q2 vamos pues con Jesús
+\q2 a su patria celestial.
+\q2 Sin mirar hacia atrás,
+\q2 no volver a pecar,
+\q2 vamos pues con Jesús
+\q2 a su patria celestial.
+\b 
+\s2 2
+\q1 Por su muerte en la cruz
+\q1 fortaleza él me da.
+\q1 Sigamos con fe
+\q1 al bendito Señor.
+\q1 Por su muerte en la cruz
+\q1 fortaleza él me da.
+\q1 Sigamos con fe
+\q1 al bendito Señor.
+\b 
+\s2 Coro:
+\q2 Sin mirar hacia atrás,
+\q2 no volver a pecar,
+\q2 vamos pues con Jesús
+\q2 a su patria celestial.
+\q2 Sin mirar hacia atrás,
+\q2 no volver a pecar,
+\q2 vamos pues con Jesús
+\q2 a su patria celestial.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 31 
+
+\s Nuestro Dios está mirando (Tayta Diosninchi Ricaraycämanchi)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Nuestro Dios está mirando,
+\q1 y muy pronto vendrá.
+\q1 Haciendo el bien caminaremos,
+\q1 como en el día.
+\b 
+\s2 2
+\q1 Tu hermano (tu hermana) cuando cae, hazle levantar.
+\q1 Nuestro hermano (nuestra hermana) cuando cae, no le mires.
+\q1 Cuando hacemos eso, haremos el bien.
+\q1 El Señor nos ayudará.
+\b 
+\s2 3
+\q1 ¿Lo que dijo Dios estás haciendo?
+\q1 ¿Estás hablando mi palabra a tu prójimo?
+\q1 Si todavía no lo haces, hazlo hoy.
+\q1 No te detengas, ven pronto.
+\b 
+\s2 4
+\q1 Cristo vendrá en las nubes
+\q1 trayendo su libro en su mano, para llevarnos.
+\q1 Haciendo el bien: “Ven aquí” nos dirá.
+\q1 Haciendo el mal: “No te conozco” nos dirá.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 32 
+
+\s Hermano, hermana no tengas miedo (Wauguicuna, Panicuna Ama Manchacuychu)
+\s2 Esto canta Juvenal Clemente Trinidad
+\s2 Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermano (hermana), no tengas miedo.
+\q1 Hermano (hermana), no tengas pena.
+\q1 Confía en Jesús.
+\q1 Caminemos con Jesús.
+\q1 Hermano (hermana), no tengas miedo.
+\q1 Hermano (hermana), no tengas pena.
+\q1 Confía en Jesús.
+\q1 Caminemos con Jesús.
+\b 
+\s2 2
+\q1 Hermano (hermana), no vuelvas atrás.
+\q1 No des la espalda al Señor Jesús.
+\q1 Todo padecimiento se acabará.
+\q1 Todo llanto se acaba.
+\q1 Hermano (hermana), no vuelvas atrás.
+\q1 No des la espalda a Jesús.
+\q1 Todo padecimiento se acabará.
+\q1 Todo llanto se acaba.
+\b 
+\s2 3
+\q1 Cuando lleguemos al cielo, no sufriremos.
+\q1 Cuando lleguemos a su gloria, no lloraremos.
+\q1 Una casa de oro nos dará.
+\q1 Un vestido blanco nos dará.
+\q1 Cuando lleguemos al cielo, no sufriremos.
+\q1 Cuando lleguemos a su gloria, no lloraremos.
+\q1 Una casa de oro nos dará.
+\q1 Un vestido blanco nos dará.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 33 
+
+\s Hermanos, hermanas, cantemos (Wauguicuna, Panicuna, Cantacushun)
+\s2 Esto canta «Salmistas de Yanec», Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermanos, todos alabemos.
+\q1 Hermanas, todos pidamos.
+\q1 Sea noche, día,
+\q1 a nuestro Dios.
+\q1 Sea noche, día,
+\q1 a nuestro Dios.
+\b 
+\s2 2
+\q1 Allá en el cielo
+\q1 no sufriremos.
+\q1 Allá en el cielo
+\q1 no sufriremos.
+\q1 Con gozo viviremos
+\q1 con Dios.
+\q1 Con gozo viviremos
+\q1 con Dios.
+\b 
+\s2 3
+\q1 Cuando se oscurece, pidamos a Dios.
+\q1 Cuando amanece, alabemos a Dios.
+\q1 Sólo a él oraremos.
+\q1 Sólo a él oraremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 34 
+
+\s No desmayes (Ama Manchaychu)
+\s2 «Hermanos míos» esta alabanza cantan
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 Sólo los hombres:
+\b 
+\s2 1
+\q1 Hermano, nunca desmayes
+\q1 cuando la gente hable contra ti.
+\q1 Mejor procurar estar con él.
+\q1 El Señor Jesús está contigo.
+\q1 El Señor Jesús está contigo.
+\b 
+\s2 2
+\q1 Hermana, nunca desmayes
+\q1 cuando te insulten las mujeres.
+\q1 Tu eres buena pidiendo a Dios.
+\q1 Señor Jesús está contigo.
+\q1 Señor Jesús está contigo.
+\b 
+\s2 Sólo las mujeres:
+\b 
+\s2 3
+\q1 Hermano, nunca desmayes
+\q1 cuando la gente hable contra ti.
+\q1 Mejor procurar estar con él.
+\q1 El Señor Jesús está contigo.
+\q1 El Señor Jesús está contigo.
+\b 
+\s2 4
+\q1 Hermana mía, nunca desmayes
+\q1 cuando las mujeres te insulten.
+\q1 Eres buena pidiendo a Dios.
+\q1 El Señor Jesús está contigo.
+\q1 El Señor Jesús está contigo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 35 
+
+\s Cuando llegue mal aire (Juyu Wayra Ćhayamuptin)
+\s2 Esto cantó Juvenal Clemente Trinidad
+\s2 Acomayo, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando llegue mal aire,
+\q1 cuando llegue los sufrimientos,
+\q1 no tengas miedo hermano,
+\q1 confía en Dios.
+\q1 No tengas miedo hermano,
+\q1 confía en Dios.
+\b 
+\s2 2
+\q1 Jesucristo volverá,
+\q1 y nos llevará a su reino.
+\q1 Muy pronto nos iremos.
+\q1 Viviremos en su reino.
+\q1 Muy pronto nos iremos.
+\q1 Viviremos en su reino.
+\b 
+\s2 3
+\q1 El fin del mundo vendrá.
+\q1 Los sufrimientos se terminarán.
+\q1 Delante de Jesús
+\q1 no sufriremos.
+\q1 Delante de Jesús
+\q1 no sufriremos.
+\b 
+\s2 4
+\q1 Cuando quieras ir al cielo,
+\q1 confía en la promesa de Jesús.
+\q1 Por eso predico.
+\q1 Todos los días oremos a Dios.
+\q1 Por eso predico.
+\q1 Todos los días oremos a Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 36 
+
+\s Quieren agua las ovejas (Yacunashpan Uyshacuna)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Las ovejas quieren agua
+\q1 se van a buscar.
+\q1 Igual nosotros
+\q1 vayamos con Dios.
+\b 
+\s2 2
+\q1 Cuando tengas sed,
+\q1 ven a Jesús.
+\q1 Jesús dijo: “Ven a mí,
+\q1 yo te daré agua de beber”.
+\b 
+\s2 3
+\q1 Hoy mismo recibe a Dios.
+\q1 ¿Por qué te desanimas?
+\q1 De un momento a otro cuando mueres,
+\q1 irás a su gloria.
+\b 
+\s2 4
+\q1 Yo alegre estoy
+\q1 confiando.
+\q1 Sólo para él vivo,
+\q1 esperando su venida.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 37 
+
+\s Toma tú mis manos (Chariy Maquilläta)
+\s2 «Pruebas de tu amor» esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Pruebas de tu amor
+\q1 me diste, oh Dios.
+\q1 Pruebas de tu amor
+\q1 me diste, oh Dios. 
+\b 
+\s2 Coro:
+\q2 Toma. Toma tú mi mano.
+\q2 Caminar contigo
+\q2 quiero, oh Dios.
+\q2 Toma. Toma tú mi mano.
+\q2 Caminar contigo
+\q2 quiero, oh Dios.
+\b 
+\s2 2
+\q1 ¿A quién rogaré 
+\q1 cuando estoy con pena?
+\q1 ¿A quién rogaré 
+\q1 cuando estoy con pena?
+\b 
+\s2 Coro:
+\q2 Toma. Toma tú mi mano.
+\q2 Caminar contigo
+\q2 quiero, oh Dios.
+\q2 Toma. Toma tú mi mano.
+\q2 Caminar contigo
+\q2 quiero, oh Dios.
+\b 
+\s2 3
+\q1 Para amar a mi prójimo,
+\q1 dame un corazón bueno.
+\q1 Para amar a mi prójimo,
+\q1 dame un corazón bueno.
+\b 
+\s2 Coro:
+\q2 Toma. Toma tú mi mano.
+\q2 Caminar contigo
+\q2 quiero, oh Dios.
+\q2 Toma. Toma tú mi mano.
+\q2 Caminar contigo
+\q2 quiero, oh Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 38 
+
+\s Mi Dios Padre (Dios Taytallä)
+\s2 Esto cantó «Diospa Camachisqancuna»
+\s2 Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mi Dios me ama.
+\q1 Ahora en mi corazón
+\q1 sólo a ti te recibiré. 
+\b 
+\s2 Coro:
+\q2 Te seguiré sólo a ti.
+\q2 Me amas. Me salvas.
+\q2 Me llevas a tu gloria.
+\q2 Te seguiré sólo a ti.
+\q2 Me amas. Me salvas.
+\q2 Me llevas a tu gloria.
+\b 
+\s2 2
+\q1 Dame gozo.
+\q1 Cuando estoy triste,
+\q1 sólo tú me das valor.
+\b 
+\s2 Coro:
+\q2 Te seguiré sólo a ti.
+\q2 Me amas. Me salvas.
+\q2 Me llevas a tu gloria.
+\q2 Te seguiré sólo a ti.
+\q2 Me amas. Me salvas.
+\q2 Me llevas a tu gloria.
+\b 
+\s2 3
+\q1 Jesucristo, tú eres mi salvador;
+\q1 ayúdame todos los días
+\q1 para caminar contigo.
+\b 
+\s2 Coro:
+\q2 Te seguiré sólo a ti.
+\q2 Me amas. Me salvas.
+\q2 Me llevas a tu gloria.
+\q2 Te seguiré sólo a ti.
+\q2 Me amas. Me salvas.
+\q2 Me llevas a tu gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 39 
+
+\s Gracias Padre (Rasyas Tayta)
+\s2 Esto cantó «Chirapa»
+\s2 Huancayo.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Gracias Padre, Gracias Dios,
+\q1 en el nombre de Jesús.
+\q1 Con gran amor tú me has salvado
+\q1 de la muerte y del pecado.
+\q1 Con gran amor tú me has salvado
+\q1 de la muerte y del pecado.
+\b 
+\s2 2
+\q1 Yo vivía en pecado,
+\q1 lo que usted decía no lo hacía caso.
+\q1 Tú Dios, me has compadecido,
+\q1 con tu Hijo me has salvado.
+\q1 Tú Dios, me has compadecido,
+\q1 con tu Hijo me has salvado.
+\b 
+\s2 3
+\q1 ¿Por qué Dios mío, tanto me amas
+\q1 siendo tu hijo que yo nada valía?
+\q1 Yo te pido por más sabiduría
+\q1 para hacer tu santa voluntad.
+\q1 Yo te pido por más sabiduría
+\q1 para hacer tu santa voluntad.
+\b 
+\s2 4
+\q1 Aunque no sea tu hijo,
+\q1 con amor me has recibido.
+\q1 Para hacer tu voluntad,
+\q1 en donde sea me ayudas.
+\q1 Para hacer tu voluntad,
+\q1 en donde sea me ayudas.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 40 
+
+\s Jesucristo, amoroso (Jesucristo, Sumaj Cuyacujmi)
+\s2 Esto cantó Joel Rivera Villar,
+\s2 Tinya Wayin, Acomayo, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo bueno, oh Dios amoroso,
+\q1 te ruego, te pido de tu gran mensaje,
+\q1 para yo servirte con todo mi corazón,
+\q1 caminar contigo quiero cada día.
+\q1 caminar contigo quiero cada día.
+\b 
+\s2 2
+\q1 Enséñame tu mensaje
+\q1 para predicar a los pecadores.
+\q1 No conocen todavía tu mensaje.
+\q1 Predicaré su salvación.
+\q1 Predicaré su salvación.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 41 
+
+\s Jesucristo me ama (Jesucristu Cuyamajnï)
+\s2 Esta iguala
+\s2 “Jesucristo Nazareno” esta alabanza.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo me ama,
+\q1 Jesucristo mi salvador.
+\q1 Sólo en ti confío
+\q1 mientras vivo en esta tierra.
+\b 
+\s2 2
+\q1 Mi gente me odia.
+\q1 Me murmura en esta tierra.
+\q1 Dame fuerzas
+\q1 para hacer lo bueno.
+\b 
+\s2 3
+\q1 Cuando soy rico, pobre,
+\q1 de Dios no me apartaré.
+\q1 Sólo a él seguiré.
+\q1 Todos los días te serviré.
+\b 
+\s2 4
+\q1 Cuando vivo en este mundo,
+\q1 los pecados me rodean.
+\q1 No recibiré los engaños
+\q1 para llegar a tu gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 42 
+
+\s Con mi corazón te pienso (Shungulläwan Yarpaynïmi)
+\s2 Esto canta «Chirapa»
+\s2 Huancayo.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mi corazón, mis pensamientos
+\q1 me llevan al pecado.
+\q1 ¿Qué puedo hacer
+\q1 para salvar mi alma?
+\q1 ¿Qué puedo hacer
+\q1 para salvar mi alma?
+\b 
+\s2 2
+\q1 De rodillas te suplico,
+\q1 y llorando a Dios:
+\q1 “No ten miedo” me dice.
+\q1 “Sólo contigo me iré”.
+\q1 “No ten miedo” me dice.
+\q1 “Sólo contigo me iré”.
+\b 
+\s2 3
+\q1 Mi Dios me perdona.
+\q1 En su palabra me habla:
+\q1 “De misericordia, te salvé;
+\q1 ahora eres mi hijo”.
+\q1 “De misericordia, te salvé;
+\q1 ahora eres mi hijo”.
+\b 
+\s2 4
+\q1 Dios me ama,
+\q1 con su poder me ve.
+\q1 Cuando caigo me levanta.
+\q1 Cuando lloro me hace callar.
+\q1 Cuando caigo me levanta.
+\q1 Cuando lloro me hace callar.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 43 
+
+\s Jesús hazme conocer (Jesús Ricsiycachimay)
+\s2 Esta alabanza canta en Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús, hazme conocer
+\q1 el camino al cielo.
+\q1 Jesús, hazme conocer
+\q1 el camino a la gloria.
+\q1 Cuando muera, mi alma
+\q1 a ti vendrá.
+\q1 Cuando muera, mi alma
+\q1 a ti vendrá.
+\b 
+\s2 2
+\q1 Jesús ayúdame.
+\q1 Señor, ayúdame comprender…
+\q1 Jesús ayúdame.
+\q1 Señor, ayúdame comprender,
+\q1 para venir,
+\q1 en tu camino angosto.
+\q1 Para no caminar
+\q1 en el camino ancho.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 44 
+
+\s Jesús, salvador, ayúdame (Jesúsnï, Salbadurnï, Yanapaycallämay)
+\s2 Esta alabanza se cantó en Arequipa.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús, Salvador, ayúdame.
+\q1 Jesús, Salvador, ayúdame.
+\q1 Mientras vivo en esta tierra, me das fuerzas
+\q1 para anunciar tu palabra.
+\q1 Mientras vivo en esta tierra, me das fuerzas
+\q1 para anunciar tu palabra.
+\b 
+\s2 2
+\q1 Jesús, mi Salvador, ten compasión de mí.
+\q1 Jesús, mi Salvador, ten compasión de mí.
+\q1 Al recibirte, solo soy tu hijo.
+\q1 Te alabaré con todo mi corazón.
+\q1 Al recibirte, solo soy tu hijo.
+\q1 Te alabaré con todo mi corazón.
+\b 
+\s2 3
+\q1 Jesús, mi Salvador, enséñame…
+\q1 Jesús, mi Salvador, enséñame,
+\q1 para saber más de tu palabra,
+\q1 para enseñar a mis hermanas.
+\q1 Para saber más de tu palabra,
+\q1 para enseñar a mis hermanas.
+\b 
+\s2 4
+\q1 Jesús, mi Salvador, ayúdame…
+\q1 Jesús, mi Salvador, ayúdame,
+\q1 para servirte sin cansar,
+\q1 de día y de noche para caminar contigo.
+\q1 Para servirte sin cansar,
+\q1 de día y de noche para caminar contigo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 45 
+
+\s Los pecados (Jucha Rurayllami)
+\s2 «De dificultades rodeados» esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Los pecados me rodean.
+\q1 Los pecados me rodean.
+\q1 Por eso te pido,
+\q1 sólo a ti Dios de amor.
+\q1 Por eso te pido,
+\q1 sólo a ti Dios de amor.
+\b 
+\s2 2
+\q1 Ayúdame Cristo Jesús.
+\q1 Ayúdame Cristo Jesús.
+\q1 Ya no quiero
+\q1 ser vencido por Satanás.
+\q1 Ya no quiero
+\q1 ser vencido por Satanás.
+\b 
+\s2 3
+\q1 Escucha mi petición.
+\q1 Escucha mi petición.
+\q1 Sólo en tu ciudad
+\q1 quiero vivir.
+\q1 Sólo en tu ciudad
+\q1 quiero vivir.
+\b 
+\s2 4
+\q1 Cristo viene en las nubes.
+\q1 Cristo viene en las nubes,
+\q1 predicando
+\q1 que nos encuentra.
+\q1 Sólo esperando
+\q1 que nos encuentre Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 46 
+
+\s Escúchame oh Dios (Wiyaycallämay Tayta Dios)
+\s2 Esta alabanza se cantó en San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Escúchame, oh Dios,
+\q1 cuando te pido.
+\q1 Mi corazón se entristece.
+\q1 Ayúdame.
+\q1 Escúchame, oh Dios,
+\q1 cuando te pido.
+\q1 Mi corazón se entristece.
+\q1 Ayúdame. 
+\b 
+\s2 Coro:
+\q2 Ayúdame
+\q2 para caminar contento.
+\q2 Ayúdame
+\q2 para caminar contento.
+\b 
+\s2 2
+\q1 Dios me ama.
+\q1 No me olvida.
+\q1 Por eso yo también
+\q1 sigo a él.
+\q1 Dios me ama.
+\q1 No me olvida.
+\q1 Por eso yo también
+\q1 sigo a él.
+\b 
+\s2 Coro:
+\q2 Ayúdame
+\q2 para caminar contento.
+\q2 Ayúdame
+\q2 para caminar contento.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 47 
+
+\s Guíame por un buen camino (Pusharämay Alli Camninupa)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Guíame a mí
+\q1 por un buen camino.
+\q1 Con gozo
+\q1 estaré delante de ti.
+\q1 Con gozo
+\q1 estaré delante de ti.
+\b 
+\s2 2
+\q1 Dios compasivo,
+\q1 no me desampares.
+\q1 Tú estás conmigo,
+\q1 y venceré al diablo.
+\q1 Tú estás conmigo,
+\q1 y venceré al diablo.
+\b 
+\s2 3
+\q1 No me desampares
+\q1 mientras vivo en este mundo.
+\q1 Cuando vengan los sufrimientos,
+\q1 tú me ayudas a resistir.
+\q1 Cuando vengan los sufrimientos,
+\q1 tú me ayudas a resistir.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 48 
+
+\s Señor Jesucristo (Señor Jesucristu)
+\s2 Esto canto «Voz del Creyente»
+\s2 Pacayhua, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesucristo, tu moriste
+\q1 en la cruz por mi para salvarme.
+\q1 Señor Jesucristo, tu moriste
+\q1 en la cruz por mi para salvarme.
+\b 
+\s2 2
+\q1 Derramaste tu sangre
+\q1 para lavar todos mis pecados.
+\q1 Derramaste tu sangre
+\q1 para lavar todos mis pecados.
+\b 
+\s2 3
+\q1 Señor Jesucristo, no me dejes;
+\q1 en tus manos téngame.
+\q1 Señor Jesucristo, no me dejes;
+\q1 en tus manos téngame.
+\b 
+\s2 4
+\q1 Te ruego a ti con todo mi corazón
+\q1 para vivir conforme tu voluntad.
+\q1 Te ruego a ti con todo mi corazón
+\q1 para vivir conforme tu voluntad.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 49 
+
+\s Señor Jesús hijo de Dios (Señor Jesús Diospa Wamran)
+\s2 Esto cantó «Luz Resplandeciente»
+\s2 Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesús, hijo de Dios,
+\q1 Tu eres mi Salvador.
+\q1 Cuando muero, me recibes
+\q1 porque eres misericordioso.
+\q1 Cuando muero, me recibes
+\q1 porque eres misericordioso.
+\b 
+\s2 2
+\q1 Señor Jesús, hijo de Dios,
+\q1 ahora ayúdame.
+\q1 Dame fuerzas, sabiduría
+\q1 sólo de ti.
+\q1 Dame fuerzas, sabiduría
+\q1 sólo de ti.
+\b 
+\s2 3
+\q1 Señor Jesús, hijo de Dios,
+\q1 tú me cuidas.
+\q1 Satanás me persigue
+\q1 para separarme de Dios.
+\q1 Satanás me persigue
+\q1 para separarme de Dios.
+\b 
+\s2 4
+\q1 Señor Jesús, hijo de Dios,
+\q1 tú me llevarás
+\q1 allá en tu reino
+\q1 para vivir alegre.
+\q1 allá en tu reino
+\q1 para vivir alegre.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 50 
+
+\s Señor Jesús ven pronto (Señor Jesús Juclla Aywallämuy)
+\s2 Esto cantó «Maranp'aqui Inlisya»
+\s2 Cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesús, ven pronto.
+\q1 Señor Jesús, regresa pronto.
+\q1 Los pecados me rodean.
+\q1 La gente me odia.
+\b 
+\s2 2
+\q1 Falta mi confianza.
+\q1 Sufrimientos, tristezas hay.
+\q1 Señor Jesús, hazme comprender.
+\q1 Señor Jesús, ayúdame.
+\b 
+\s2 3
+\q1 No me desampares, Dios mío,
+\q1 para no cometer pecado.
+\q1 Sólo para vivir para ti,
+\q1 y mi confianza sólo en ti.
+\b 
+\s2 4
+\q1 A ti solo te amaré.
+\q1 A ti solo te serviré.
+\q1 Tu palabra anunciaré.
+\q1 En donde vaya y a quien sea.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 51 
+
+\s Señor Jesús solo a ti te espero (Señor Jesúsllä Jamta Shuyaycaj)
+\s2 Esto canta «Luz Resplandeciente»
+\s2 Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesús, sólo a ti te espero.
+\q1 Soy tu hijo, haré lo que digas.
+\q1 Muy linda tu palabra.
+\q1 Al obedecerte, viviré.
+\b 
+\s2 2
+\q1 Señor Jesús, llévame
+\q1 para servirte en tu gloria,
+\q1 para no quedarme en este mundo.
+\q1 Cuando vuelvas, llévame.
+\b 
+\s2 3
+\q1 Señor Jesús, en tu gloria
+\q1 no hay sufrimiento.
+\q1 ¡Qué gozo habrá en el cielo,
+\q1 cantar junto con los ángeles!
+\b 
+\s2 4
+\q1 Amigo, ven a Jesús
+\q1 para que seas salvo de tus pecados.
+\q1 No vayas al infierno
+\q1 sino irás al reino de Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 52 
+
+\s Señor Jesús, perdóname (Señor Jesúsnï, Perdonaycallämay)
+\s2 Esto cantó «Hanaq Pacha Ñan»
+\s2 Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesús, perdóname.
+\q1 Señor Jesús, ten compasión de mí
+\q1 de cometer pecados,
+\q1 de hacer malas obras.
+\b 
+\s2 2
+\q1 Mi mala conciencia me guía
+\q1 para vivir en el vicio.
+\q1 Ahora te suplico: ten compasión de mí,
+\q1 no te canses de mí.
+\b 
+\s2 3
+\q1 Muéstrame tu camino.
+\q1 Ábreme tu puerta
+\q1 para entrar en tu ciudad,
+\q1 para llegar a tu gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 53 
+
+\s Ven Jesús a mi corazón (Shamuy Jesús Shungüman)
+\s2 Esto cantó «Diospaj Cantashun» Auleria Trinidad Sabino
+\s2 Tirishuanca-Pahitea- Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús ven a mi corazón,
+\q1 Tu vive en mí.
+\q1 Enséñame hacer el bien
+\q1 para estar delante de ti.
+\q1 Jesús ven a mi corazón,
+\q1 Tu vive en mí.
+\q1 Enséñame hacer el bien
+\q1 para estar delante de ti.
+\b 
+\s2 2
+\q1 Confío en ti,
+\q1 Jesucristo de compasión.
+\q1 Por todos mis pecados
+\q1 perdóname, Jesucristo.
+\q1 Confío en ti,
+\q1 Jesucristo de compasión.
+\q1 Por todos mis pecados
+\q1 perdóname, Jesucristo.
+\b 
+\s2 3
+\q1 Recíbeme, Jesús,
+\q1 aunque sea pecador.
+\q1 Perdóname mis culpas
+\q1 para ser tu hijo.
+\q1 Recíbeme, Jesús,
+\q1 aunque sea pecador.
+\q1 Perdóname mis culpas
+\q1 para ser tu hijo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 54 
+
+\s Ven a mí, Jesús (Shamuy Nuwaman Jesúsnï)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Ven a mí, Jesús.
+\q1 No me olvides.
+\q1 Ven a mí, Jesús.
+\q1 No me olvides.
+\q1 Lávame todos mis pecados
+\q1 para estar sin pecados.
+\q1 Lávame todos mis pecados
+\q1 para estar sin pecados.
+\b 
+\s2 2
+\q1 Ven a mí, Jesús,
+\q1 para que vivas en mi corazón.
+\q1 Ven a mí, Jesús,
+\q1 para que vivas en mi corazón.
+\q1 No puedo caminar solo
+\q1 por tu camino.
+\q1 No puedo caminar solo
+\q1 por tu camino.
+\b 
+\s2 3
+\q1 Ven a mí, Jesús.
+\q1 sólo te espero a ti.
+\q1 Ven a mí, Jesús.
+\q1 sólo te espero a ti.
+\q1 Noches, días
+\q1 solamente confío.
+\q1 Noches, días
+\q1 solamente confío.
+\b 
+\s2 4
+\q1 Ven a mí, Jesús.
+\q1 Contigo quiero vivir.
+\q1 Ven a mí, Jesús.
+\q1 Contigo quiero vivir.
+\q1 Contigo quiero caminar
+\q1 hasta que me recojas.
+\q1 Contigo quiero caminar
+\q1 hasta que me recojas.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 55 
+
+\s Jesús mi salvador (Jesúsnï Salbamajnï)
+\s2 Esto cantó «Yana Rumi»
+\s2 Río Apurímac, Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús, mi Salvador,
+\q1 entra en mi corazón.
+\q1 Jesús, mi Salvador,
+\q1 entra en mi corazón.
+\q1 Tengo pecado en mi corazón.
+\q1 Con tu sangre lávalo.
+\q1 Tengo pecado en mi corazón.
+\q1 Con tu sangre lávalo.
+\b 
+\s2 2
+\q1 Mi Dios en los cielos,
+\q1 Santo Espírito…
+\q1 Mi Dios en los cielos,
+\q1 Santo Espírito,
+\q1 entra en mi corazón
+\q1 sólo para estar en ti.
+\q1 Entra en mi corazón
+\q1 sólo para estar en ti.
+\b 
+\s2 3
+\q1 Mi bello Jesús,
+\q1 sólo para ti viviré.
+\q1 Mi bello Jesús,
+\q1 sólo para ti viviré.
+\q1 Cuando llegue a tu gloria,
+\q1 con gozo te serviré.
+\q1 Cuando llegue a tu gloria,
+\q1 con gozo te serviré.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 56 
+
+\s Todos los días camino (Waran‑Waran Purï)
+\s2 Esto cantó «Diospa Wamrancuna»
+\s2 Pacayhua, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Todos los días camino contigo confiado,
+\q1 recordando tus palabras.
+\q1 Mi corazón está contento, Señor Jesucristo,
+\q1 porque vivo en esta tierra días contados.
+\q1 Mi corazón está contento, Señor Jesucristo,
+\q1 porque vivo en esta tierra días contados.
+\b 
+\s2 2
+\q1 Te suplico a ti que tengas compasión de mí.
+\q1 No me dejes en pecado.
+\q1 Perdóname, Señor Jesucristo.
+\q1 En esta tierra vivo días contados.
+\q1 Perdóname, Señor Jesucristo.
+\q1 En esta tierra vivo días contados.
+\b 
+\s2 3
+\q1 Enséñame, ayúdame,
+\q1 como sea para servirte sólo a ti.
+\q1 Cuando tú vengas, llévame, Señor Jesucristo,
+\q1 porque en esta tierra vivo los días contados.
+\q1 Cuando tú vengas, llévame, Señor Jesucristo,
+\q1 En esta tierra vivo días contados.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 57 
+
+\s Con Cristo vivo feliz (Jesucristowan Cushish Cawacü)
+\s2 esto cantó «Los Serafines de Yaurín»
+\s2 Conchamarca, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Con Cristo vivo feliz.
+\q1 Me lavó todo mi pecado.
+\q1 De la muerte él me salvó
+\q1 para tener vida eterna.
+\b 
+\s2 2
+\q1 Cantando, ya me voy
+\q1 predicando la palabra de Dios,
+\q1 enseñando su poder
+\q1 y recibiendo su mensaje.
+\b 
+\s2 3
+\q1 Con gozo los que recibieron
+\q1 a Cristo alabarán.
+\q1 Con Dios vivirán feliz.
+\q1 Todos los días a él cántale.
+\b 
+\s2 4
+\q1 Hermanos, hermanas, hay que unirnos.
+\q1 Dejemos la tristeza.
+\q1 Ya que Dios está en el cielo,
+\q1 tengamos confianza de todo corazón.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 58 
+
+\s Soy mensajero (Caycä Diospa Willacujninmi)
+\s2 «Soy mensajero» esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Soy mensajero,
+\q1 mensajero de Cristo,
+\q1 hablando de pueblo en pueblo,
+\q1 predicando de Cristo.
+\q1 predicando de Cristo.
+\b 
+\s2 2
+\q1 Aunque la gente me odia,
+\q1 aunque no me recibe,
+\q1 no le dejaré
+\q1 el mensaje de Dios.
+\q1 el mensaje de Dios.
+\b 
+\s2 3
+\q1 En la Biblia nos enseña
+\q1 la palabra de Jesús:
+\q1 “Cuando andes por todos los lugares
+\q1 predica mi palabra.
+\q1 predica mi palabra”.
+\b 
+\s2 4
+\q1 Recíbeme tú que oigas
+\q1 el mensaje de Jesús.
+\q1 Si no te arrepientes,
+\q1 sufrirás en el infierno.
+\q1 sufrirás en el infierno.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 59 
+
+\s Con el Señor Jesús camino (Señor Jesúsnïwan Purï)
+\s2 Esta alabanza se cantó en San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Yo camino
+\q1 con Señor Jesús.
+\q1 Alabaré
+\q1 a mi Salvador.
+\q1 Yo camino
+\q1 con Señor Jesús.
+\q1 Alabaré
+\q1 a mi Salvador.
+\b 
+\s2 2
+\q1 No temo
+\q1 predicando de Dios-
+\q1 el buen mensaje
+\q1 de salvación.
+\q1 No temo
+\q1 predicando de Dios-
+\q1 el buen mensaje
+\q1 de salvación.
+\b 
+\s2 3
+\q1 Por donde vaya,
+\q1 solo predico
+\q1 el buen mensaje
+\q1 del salvador Jesús.
+\q1 Por donde vaya,
+\q1 solo predico
+\q1 el buen mensaje
+\q1 del salvador Jesús.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 60 
+
+\s Mis manos trabajará (Maquillämi Ruranga)
+\s2 Esto canta Marcos Venancio,
+\s2 Margarita Ayra Basán, Pinquiray Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mis manos trabajarán,
+\q1 mis pies caminarán,
+\q1 mi boca predicará,
+\q1 sólo para ti Jesús.
+\q1 Sólo a ti Señor te serviré.
+\b 
+\s2 Coro:
+\q2 Con Jesús quiero caminar.
+\q2 Con Jesús quiero vivir.
+\q2 Sirviendo a Jesús moriré,
+\q2 predicando a toda la gente.
+\b 
+\s2 2
+\q1 Estoy confiando en Dios
+\q1 para vivir en el cielo.
+\q1 Delante del Jesús,
+\q1 cantando a Jesús,
+\q1 te serviré mi Señor.
+\b 
+\s2 Coro:
+\q2 Con Jesús quiero caminar.
+\q2 Con Jesús quiero vivir.
+\q2 Sirviendo a Jesús moriré,
+\q2 predicando a toda la gente.
+\b 
+\s2 3
+\q1 Amo a Jesús.
+\q1 Mi Jesús murió.
+\q1 Murió, por amarme
+\q1 y por nosotros.
+\q1 Te serviremos nuestro Señor.
+\b 
+\s2 Coro:
+\q2 Con Jesús quiero caminar.
+\q2 Con Jesús quiero vivir.
+\q2 Sirviendo a Jesús moriré,
+\q2 predicando a toda la gente.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 61 
+
+\s Mientras no entrego mi vida a Dios (Manaraj Diosta Ćhasquicur)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mientras no entrego mi vida a Dios,
+\q1 vive el pecado.
+\q1 Mientras no entrego mi vida a Dios,
+\q1 hago malas cosas.
+\b 
+\s2 2
+\q1 Un día cuando andaba llorando,
+\q1 Jesús: “Ven”, me dijo.
+\q1 “Eres mi hijo”, me decía.
+\q1 “Te quiero mucho”, me decía.
+\b 
+\s2 3
+\q1 Recibiendo a Jesús en mi corazón,
+\q1 contento vivo.
+\q1 Ahora camino con él
+\q1 predicando su palabra.
+\b 
+\s2 4
+\q1 Por donde camino solo,
+\q1 orando a Dios,
+\q1 él me escucha al instante,
+\q1 sea de noche o día.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 62 
+
+\s Equivocado andaba (Pantacasha Purirä)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Equivocado andaba.
+\q1 Perdido vivía.
+\q1 Nuestro Dios me ha perdonado.
+\q1 Ahora camino bien.
+\b 
+\s2 2
+\q1 Odiaba a mi prójimo.
+\q1 Sólo en pecado trabajaba.
+\q1 Mi corazón negro era.
+\q1 Sólo mi Dios me ha lavado.
+\b 
+\s2 3
+\q1 Dios nos ama.
+\q1 En el iremos,
+\q1 sin descansar.
+\q1 De una vez iremos a Dios.
+\b 
+\s2 4
+\q1 En el cielo viviremos.
+\q1 No vamos a padecer.
+\q1 Dejaremos a esta tierra,
+\q1 de un momento dejaremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 63 
+
+\s Antes yo vivía (Unay Cawaynïga)
+\s2 «Antes caminaba» esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Antes yo vivía
+\q1 mi vida perdida.
+\q1 Antes yo vivía
+\q1 mi vida perdida.
+\q1 Sin saber lo que era
+\q1 el mundo malo.
+\q1 Sin saber lo que era
+\q1 el mundo malo.
+\b 
+\s2 2
+\q1 En mi vida triste
+\q1 encontré un amigo.
+\q1 En mi vida triste
+\q1 encontré un amigo.
+\q1 De lo que me salvó
+\q1 le sigo a Jesús.
+\q1 De lo que me salvó
+\q1 le sigo a Jesús.
+\b 
+\s2 3
+\q1 Cuando sigo a Cristo
+\q1 otros me odian.
+\q1 Cuando sigo a Cristo
+\q1 otros me odian.
+\q1 Aunque me están odiando
+\q1 sigo a Jesús.
+\q1 Aunque me están odiando
+\q1 sigo a Jesús.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 64 
+
+\s Sin padre estoy (Waccha‑Jinam Caycä)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Sin padre estoy
+\q1 en este mundo malo.
+\q1 Sin padre estoy
+\q1 en este mundo malo.
+\q1 Mi Dios me recogió,
+\q1 y me pastoreará.
+\q1 Mi Dios me recogió,
+\q1 y me pastoreará.
+\b 
+\s2 2
+\q1 Otros hermanos
+\q1 están en la gloria.
+\q1 Otros hermanas
+\q1 están en la gloria.
+\q1 Igual a ellos
+\q1 iremos a la gloria.
+\q1 Igual a ellos
+\q1 iremos a la gloria.
+\b 
+\s2 3
+\q1 Hay que servir a Dios
+\q1 hasta la muerte.
+\q1 Hay que servir a Dios
+\q1 hasta la muerte.
+\q1 Si confiamos en él,
+\q1 iremos con él.
+\q1 Si confiamos en él,
+\q1 iremos con él.
+\b 
+\s2 4
+\q1 Jesús, vuelve pronto.
+\q1 Te espero aquí.
+\q1 Jesús, vuelve pronto.
+\q1 Te espero aquí.
+\q1 Cuando vengas, llévame
+\q1 a donde está nuestro Dios.
+\q1 Cuando vengas, llévame
+\q1 a donde está nuestro Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 65 
+
+\s La Biblia dice (Bibliaćhu Nimanchi)
+\s2 Esto canta «Mensajeros de Dios»
+\s2 Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 La Biblia dice:
+\q1 “que habrá terremoto,
+\q1 hambruna, pestes
+\q1 por todo el mundo”.
+\q1 La Biblia dice:
+\q1 “que habrá terremoto,
+\q1 hambruna, pestes
+\q1 por todo el mundo”. 
+\b 
+\s2 Coro:
+\q2 Cuando Cristo otra vez vuelva…
+\q2 Cuando Cristo otra vez vuelva,
+\q2 no habrá lloros,
+\q2 no habrá tristeza.
+\q2 A él solo
+\q2 alabemos.
+\q2 no habrá lloros,
+\q2 no habrá tristeza.
+\q2 A él solo
+\q2 alabemos.
+\b 
+\s2 2
+\q1 El sol, la luna,
+\q1 ya no dará su luz.
+\q1 También las estrellas,
+\q1 serán conmovidas.
+\q1 El sol, la luna,
+\q1 ya no dará su luz.
+\q1 También las estrellas,
+\q1 serán conmovidas.
+\b 
+\s2 Coro:
+\q2 Cuando Cristo otra vez vuelva…
+\q2 Cuando Cristo otra vez vuelva,
+\q2 no habrá lloros,
+\q2 no habrá tristeza.
+\q2 A él solo
+\q2 alabemos.
+\q2 no habrá lloros,
+\q2 no habrá tristeza.
+\q2 A él solo
+\q2 alabemos.
+\b 
+\s2 3
+\q1 Entonces mi Cristo
+\q1 aparecerá ya
+\q1 en medio de nubes
+\q1 con poder y gloria.
+\q1 Entonces mi Cristo
+\q1 aparecerá ya
+\q1 en medio de nubes
+\q1 con poder y gloria.
+\b 
+\s2 Coro:
+\q2 Cuando Cristo otra vez vuelva…
+\q2 Cuando Cristo otra vez vuelva,
+\q2 no habrá lloros,
+\q2 no habrá tristeza.
+\q2 A él solo
+\q2 alabemos.
+\q2 no habrá lloros,
+\q2 no habrá tristeza.
+\q2 A él solo
+\q2 alabemos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 66 
+
+\s Cristo viene (Cristo Shamun)
+\s2 Esto canta «Los Hijos de Sión»
+\s2 Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cristo viene. Cristo viene.
+\q1 Muy pronto ya viene.
+\q1 Cristo viene. Cristo viene.
+\q1 Muy pronto ya viene.
+\q1 En la Biblia dice
+\q1 Jesucristo volverá.
+\q1 En la Biblia dice
+\q1 Jesucristo volverá.
+\b 
+\s2 2
+\q1 Jesucristo volverá
+\q1 para llevar a los que esperan.
+\q1 Jesucristo volverá
+\q1 para llevar a los que esperan.
+\q1 Los que no esperan a Dios
+\q1 en esta tierra se quedarán.
+\q1 Si no recibes a Dios
+\q1 en esta tierra llorarás.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 67 
+
+\s Esperemos a Dios (Diosninchita Shuyäcushun)
+\s2 esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Esperemos a Dios.
+\q1 De un momento nos llamará.
+\q1 Sea de noche, día,
+\q1 Cristo volverá pronto.
+\b 
+\s2 2
+\q1 Esperemos muy atentos.
+\q1 ¿En cualquier momento vendrá:
+\q1 de noche, día?
+\q1 Eso no lo sabemos.
+\b 
+\s2 3
+\q1 Todos hay que esperar
+\q1 cantando, orando,
+\q1 esperando. Cuando nos encuentra
+\q1 qué gozo será.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 68 
+
+\s Allá en la gloria tenemos casa (Luriaćhümi Alli Wasi)
+\s2 Esto cantó en Cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Allá en la gloria tenemos casa
+\q1 de oro brillante.
+\q1 Allá en la gloria tenemos casa
+\q1 de oro brillante.
+\q1 Donde se sienta que Señor Jesús
+\q1 alumbra como el sol.
+\q1 Donde se sienta que Señor Jesús
+\q1 alumbra como el sol.
+\b 
+\s2 2
+\q1 Delante de Dios
+\q1 los ángeles le alaban.
+\q1 Delante de Dios
+\q1 los ángeles le alaban.
+\q1 Miles le alaban
+\q1 y adoran a Dios.
+\q1 Miles le alaban
+\q1 y adoran a Dios.
+\b 
+\s2 3
+\q1 Allá en la gloria hay casa
+\q1 para vivir ahí.
+\q1 Allá en la gloria hay casa
+\q1 para vivir ahí.
+\q1 Jesucristo volverá,
+\q1 ahí nos llevará.
+\q1 Jesucristo volverá,
+\q1 ahí nos llevará.
+\b 
+\s2 4
+\q1 Cuando vuelve Señor Jesús,
+\q1 con él iremos gozosos.
+\q1 Cuando vuelve Señor Jesús,
+\q1 con él iremos gozosos.
+\q1 En donde él vive, ahí viviremos
+\q1 y delante de él sentaremos.
+\q1 En donde él vive, ahí viviremos
+\q1 y delante de él sentaremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 69 
+
+\s Jesucristo cuando vuelva (Jesucristu Cutimushpanmi)
+\s2 Esta alabanza se cantó Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo cuando vuelve
+\q1 recogerá a todos.
+\q1 Jesucristo cuando vuelve
+\q1 recogerá a todos.
+\q1 Cuando toda la gente se reúne
+\q1 Jesucristo nos preguntará.
+\q1 Cuando toda la gente se reúne
+\q1 Jesucristo nos preguntará.
+\b 
+\s2 2
+\q1 Los que le recibieron
+\q1 en su delante nos escogerá.
+\q1 Los que le recibieron
+\q1 en su delante nos escogerá.
+\q1 A los que no se arrepintieron
+\q1 los echará al castigo.
+\q1 A los que no se arrepintieron
+\q1 los echará al castigo.
+\b 
+\s2 3
+\q1 Exhortando dirá
+\q1 a los que no recibieron a Cristo:
+\q1 Exhortando dirá
+\q1 a los que no recibieron a Cristo:
+\q1 “Apártense de mí
+\q1 los pecadores.”
+\q1 “Apártense de mí
+\q1 los pecadores.”
+\b 
+\s2 4
+\q1 Los que recibieron a Dios
+\q1 los dirá con amor:
+\q1 Los que recibieron a Dios
+\q1 los dirá con amor:
+\q1 “Entren a mi casa
+\q1 los que hicieron el bien.”
+\q1 “Entren a mi casa
+\q1 los que hicieron el bien.”
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 70 
+
+\s Jesucristo volverá (Jesucristu Shamungana)
+\s2 Esto canta «Chirapa»
+\s2 Huancayo.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo vendrá del cielo,
+\q1 Jesucristo volverá de su gloria.
+\q1 Despierten, hermanos, hermanas.
+\q1 Cuando vivimos con Dios
+\q1 todos alegres
+\q1 caminemos con Dios.
+\b 
+\s2 2
+\q1 Un solo pensamiento viviremos con Dios.
+\q1 Un solo corazón viviremos con Dios.
+\q1 Dejemos el rencor, odio,
+\q1 vivamos de buen corazón.
+\q1 Dejando el pecado
+\q1 con gozo caminaremos.
+\b 
+\s2 3
+\q1 Dios tiene bastante amor.
+\q1 Dios es todopoderoso.
+\q1 Envió a su hijo
+\q1 para salvar.
+\q1 Estando en su mano
+\q1 con gozo viviremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 71 
+
+\s Jesucristo ya vendrá (Jesucristu Shamunganami)
+\s2 esto canta «Los Hijos de Sión», Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo ya volverá
+\q1 para llevar a sus hijos.
+\q1 Jesucristo ya volverá
+\q1 para llevar a sus hijos.
+\q1 A sus hijos se llevará
+\q1 y vivirán delante de él.
+\q1 A sus hijos se llevará
+\q1 y vivirán delante de él.
+\b 
+\s2 2
+\q1 Los hombres pecadores
+\q1 sufrirán en el infierno,
+\q1 Los hombres pecadores
+\q1 sufrirán en el infierno,
+\q1 porque caminaban en pecado,
+\q1 vivían en pecado.
+\q1 porque caminaban en pecado,
+\q1 vivían en pecado.
+\b 
+\s2 3
+\q1 Señor Jesús, vuelve pronto.
+\q1 Para llevarnos.
+\q1 Señor Jesús, vuelve pronto.
+\q1 Para llevarnos.
+\q1 Sin sufrir, sin llorar,
+\q1 para vivir contigo.
+\q1 Sin sufrir, sin llorar,
+\q1 para vivir contigo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 72 
+
+\s Jesús vendrá (Jesús Shamunga)
+\s2 Esto cantó «Voz del Creyente»
+\s2 Pacayhua, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús vendrá
+\q1 para llevarnos.
+\q1 Jesús vendrá
+\q1 para llevarnos.
+\q1 Sobre las nubes
+\q1 él vendrá a este mundo.
+\q1 Sobre las nubes
+\q1 él vendrá a este mundo.
+\b 
+\s2 2
+\q1 Esperando a Dios,
+\q1 con amor, vivamos.
+\q1 Esperando a Dios,
+\q1 con amor, vivamos.
+\q1 Con el poder de Jesús
+\q1 viviremos todos los días.
+\q1 Con el poder de Jesús
+\q1 viviremos todos los días.
+\b 
+\s2 3
+\q1 Delante de Dios
+\q1 con gozo viviremos.
+\q1 Delante de Dios
+\q1 con gozo viviremos.
+\q1 Recibiendo una corona,
+\q1 alabaremos a Jesús.
+\q1 Recibiendo una corona,
+\q1 alabaremos a Jesús.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 73 
+
+\s Cerca de su venida (Jesús Shamunanpaj)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cerca de la venida de Jesús habrá sufrimiento.
+\q1 Se moverá la tierra. Habrá enfermedades incurables.
+\q1 Muchos se odiarán.
+\q1 Habrá guerras en diferentes lugares.
+\b 
+\s2 2
+\q1 Matarán a los predicadores.
+\q1 Los insultarán.
+\q1 Los echarán a la cárcel.
+\q1 A otros los matarán.
+\b 
+\s2 3
+\q1 Los que sufren por la causa de Cristo llegarán a su gloria.
+\q1 Dios recibirá. Dios se alegrará.
+\q1 Ellos recibirán vida eterna
+\q1 y delante de Dios vivirán.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 74 
+
+\s Jesucristo volverá (Jesúsninchi Cutimunga)
+\s2 Esto cantó «Hanaq Pacha»
+\s2 Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo volverá
+\q1 muy pronto a la tierra.
+\q1 Jesucristo volverá
+\q1 muy pronto a la tierra
+\q1 para llevar a sus amados
+\q1 allá en el cielo.
+\q1 Para llevar a sus amados
+\q1 allá en el cielo.
+\b 
+\s2 2
+\q1 ¿Qué harás tú
+\q1 cuando quedas en este mundo,
+\q1 ¿Qué harás tú
+\q1 cuando quedas en este mundo,
+\q1 cuando mueras en tu pecado?
+\q1 Lloraremos en el pecado.
+\q1 cuando mueras en tu pecado?
+\q1 Lloraremos en el pecado.
+\b 
+\s2 3
+\q1 Jesucristo te llama.
+\q1 No le des la espalda.
+\q1 Jesucristo te llama.
+\q1 No le des la espalda.
+\q1 Tal como estás recíbele
+\q1 y serás perdonado.
+\q1 Tal como estás recíbele
+\q1 y serás perdonado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 75 
+
+\s Mi Jesús volverá (Jesúsnï Aywamunga)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mi Jesús volverá
+\q1 y muy pronto vendrá.
+\q1 Mi Jesús volverá
+\q1 y muy pronto vendrá.
+\b 
+\s2 2
+\q1 Hermano,
+\q1 hermana,
+\q1 cantaremos, oraremos,
+\q1 como las aves de la mañana.
+\q1 cantaremos, oraremos,
+\q1 como las aves de la mañana.
+\b 
+\s2 3
+\q1 Ya viene nuestro Salvador.
+\q1 Ya viene nuestro Salvador.
+\q1 Nos llevará por encima de las nubes
+\q1 para vivir en el cielo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 76 
+
+\s Un día Cristo vendrá (Juc Junaj Cristo Shamunga)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Un día Cristo vendrá
+\q1 sobre las nubes.
+\q1 Nos llevará al cielo,
+\q1 de esta tierra de sufrimiento.
+\q1 Un día Cristo vendrá
+\q1 sobre las nubes.
+\q1 Nos llevará al cielo,
+\q1 de esta tierra de sufrimiento. 
+\b 
+\s2 Coro:
+\q2 Cristo ya viene
+\q2 a llevar a los salvados.
+\q2 Cristo ya viene
+\q2 a llevar a los salvados.
+\q2 Jesús ya volverá.
+\q2 Ya vendrá.
+\q2 Jesús ya volverá.
+\q2 Ya vendrá.
+\b 
+\s2 2
+\q1 Nos gozaremos, hermano (hermana),
+\q1 esperando a Jesús.
+\q1 Vivamos en armonía
+\q1 adorando a Dios.
+\q1 Nos gozaremos, hermano (hermana),
+\q1 esperando a Jesús.
+\q1 Vivamos en armonía
+\q1 adorando a Dios. 
+\b \b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 77
+
+\s Jesús viene (Jesús Shamun)
+\s2 Esta alabanza se cantó en Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús viene por nosotros,
+\q1 por encima de las nubes viene.
+\q1 En donde está Dios nos llevará
+\q1 y con él viviremos
+\q1 y delante de él estaremos.
+\b 
+\s2 2
+\q1 En donde está Dios
+\q1 no habrá sufrimiento.
+\q1 Contento viviremos
+\q1 delante de Dios
+\q1 con nuestro amado Jesús.
+\b 
+\s2 3
+\q1 Si no recibes a Jesús,
+\q1 si le das la espalda a él,
+\q1 llorarás mucho y andarás triste.
+\q1 Si no ves a Dios,
+\q1 vivirás en el infierno.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 78 
+
+\s Muy pronto nos iremos (Naganami Aywacushun)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Muy pronto nos iremos
+\q1 de este mundo malo.
+\q1 Muy pronto nos iremos
+\q1 de este mundo malo.
+\q1 De un momento desapareceremos
+\q1 y saldremos de esta tierra.
+\q1 De un momento desapareceremos
+\q1 y saldremos de esta tierra.
+\b 
+\s2 2
+\q1 No llevaremos nada
+\q1 y nada podremos llevar.
+\q1 No llevaremos nada
+\q1 y nada podremos llevar.
+\q1 Como hemos nacido,
+\q1 conforme regresaremos.
+\q1 Como hemos nacido,
+\q1 conforme regresaremos.
+\b 
+\s2 3
+\q1 En esta tierra
+\q1 todo se acabará.
+\q1 En esta tierra
+\q1 todo se acabará.
+\q1 En el cielo no lloraremos,
+\q1 no habrá sufrimiento.
+\q1 En el cielo no lloraremos,
+\q1 no habrá sufrimiento.
+\b 
+\s2 4
+\q1 Al cielo nos iremos
+\q1 a vivir con Dios.
+\q1 Al cielo nos iremos
+\q1 a vivir con Dios.
+\q1 Tristeza no habrá,
+\q1 con gozo viviremos.
+\q1 Tristeza no habrá,
+\q1 con gozo viviremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 79 
+
+\s Ya oscurecerá (Naganami Chacangana)
+\s2 Esta alabanza se cantó en Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Ya oscurecerá
+\q1 el sol, la luna.
+\q1 Ya oscurecerá
+\q1 el sol, la luna.
+\q1 La venida de Jesús
+\q1 está muy cerca.
+\q1 La venida de Jesús
+\q1 está muy cerca.
+\b 
+\s2 2
+\q1 ¿Qué haremos
+\q1 para encontrarnos con él?
+\q1 ¿Qué haremos
+\q1 para encontrarnos con él?
+\q1 Entregando mi corazón,
+\q1 me encontraré.
+\q1 Entregando mi corazón,
+\q1 me encontraré.
+\b 
+\s2 3
+\q1 En mi corazón mis pecados
+\q1 ya son perdonados.
+\q1 En mi corazón mis pecados
+\q1 ya son perdonados.
+\q1 La venida de Jesús
+\q1 está muy cerca.
+\q1 La venida de Jesús
+\q1 está muy cerca.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 80 
+
+\s El Señor Jesús ya volverá (Señor Jesús Cutimungana)
+\s2 Esta alabanza se santo en cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El Señor Jesús ya volverá
+\q1 para llevar a sus hijos.
+\q1 El Señor Jesús ya volverá
+\q1 para llevar a sus hijos.
+\q1 Los hombres sin pecado
+\q1 irán con él.
+\q1 Dejando este
+\q1 mundo nos iremos.
+\q1 Los hombres sin pecado
+\q1 irán con él.
+\q1 Dejando este
+\q1 mundo nos iremos.
+\b 
+\s2 2
+\q1 Cuando suene la trompeta
+\q1 con gozo nos iremos.
+\q1 Cuando suene la trompeta
+\q1 con gozo nos iremos.
+\q1 Los muertos resucitarán
+\q1 y se juntarán.
+\q1 Nos encontraremos con Cristo
+\q1 allá en el cielo.
+\q1 Los muertos resucitarán
+\q1 y se juntarán.
+\q1 Nos encontraremos con Cristo
+\q1 allá en el cielo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 81 
+
+\s El Señor Jesús ya vendrá (Señor Jesúsmi Cutimungapaj)
+\s2 Esta alabanza se cantó en Apurimac.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El Señor Jesús ya vendrá,
+\q1 El Señor Jesús ya vendrá,
+\q1 a los perdonados se lo llevará
+\q1 y a los salvados se los llevará.
+\b 
+\s2 2
+\q1 Por eso estoy esperando,
+\q1 Por eso estoy esperando,
+\q1 aunque llores, aunque sufras,
+\q1 aunque me odien, aunque me insulten.
+\b 
+\s2 3
+\q1 Cuando seguimos a Cristo Jesús
+\q1 Cuando seguimos a Cristo Jesús
+\q1 en el cielo nos encontraremos,
+\q1 en donde está Dios nos encontraremos.
+\b 
+\s2 4
+\q1 Cuando te alejas de Dios
+\q1 Cuando te alejas de Dios
+\q1 nunca nos encontraremos,
+\q1 sólo en el infierno te quedarás.
+\b 
+\s2 5
+\q1 El Señor Jesús nos llevará
+\q1 El Señor Jesús nos llevará
+\q1 en donde nunca hemos conocido
+\q1 y en donde nunca hemos llegado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 82 
+
+\s En el cielo está mi Jesús (Sïlućhümi Caycan Jesúsnï)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En el cielo está mi Señor Jesús.
+\q1 En el cielo está mi Señor Jesús.
+\q1 Muy pronto vendrá a este mundo.
+\q1 Muy pronto vendrá a este mundo.
+\b 
+\s2 2
+\q1 Sobre las nubes vendrá Jesús.
+\q1 Sobre las nubes vendrá Jesús
+\q1 y preguntará a los hombres las obras que hicieron,
+\q1 a los obedientes los amará.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 83 
+
+\s Hermano, hermana ya no peques (Waugui Pani Ama Juchacuynachu)
+\s2 Esta alabanza cantó en Cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermanos, hermanas (hermano, hermana),
+\q1 ya no peques.
+\q1 Hermanos, hermanas (hermano, hermana),
+\q1 ya no peques.
+\q1 El Señor al venir
+\q1 nos llevará.
+\q1 El Señor al venir
+\q1 nos llevará.
+\b 
+\s2 2
+\q1 A la hora menos pensado
+\q1 Jesucristo vendrá.
+\q1 A la hora menos pensado
+\q1 Jesucristo vendrá.
+\q1 Estarás listo
+\q1 para irnos.
+\q1 Estarás listo
+\q1 para irnos.
+\b 
+\s2 3
+\q1 Ya no pienses
+\q1 quedarte en esta tierra.
+\q1 Ya no pienses
+\q1 quedarte en esta tierra.
+\q1 Los que se quedan en este mundo
+\q1 todos se quemarán.
+\q1 Los que se quedan en este mundo
+\q1 todos se quemarán.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 84 
+
+\s Despierta hermano (hermana) (Ricchay Wauguicuna (Ñañacuna))
+\s2 Cayta Cantasha Arcángel Quicaña Avilés, Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Despierta hermano-hermana,
+\q1 despierta amigo-amiga.
+\q1 Acordemos a Jesús
+\q1 y alabemos a Dios.
+\q1 Acordemos a Jesús
+\q1 y alabemos a Dios.
+\b 
+\s2 2
+\q1 Como pasan las horas,
+\q1 y pasan las sombras,
+\q1 así vendrá la muerte.
+\q1 Hoy recibe a Jesús.
+\q1 Así vendrá la muerte.
+\q1 Hoy recibe a Jesús.
+\b 
+\s2 3
+\q1 No eres piedra.
+\q1 no eres roca.
+\q1 Lo que dice Dios,
+\q1 tú no recibes.
+\q1 Lo que dice Dios
+\q1 tú no escuchas.
+\b 
+\s2 4
+\q1 Dios te llama,
+\q1 Dios te ama.
+\q1 Ahora recibe
+\q1 para que seas salvo.
+\q1 Ahora recibe
+\q1 para que seas salvo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 85 
+
+\s Era un hombre (Juc Runa Caran)
+\s2 Esto canta «Salmistas de Yanec
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Era un hombre
+\q1 llamado Jesús el Salvador.
+\q1 Era un hombre
+\q1 llamado Jesús el Salvador.
+\q1 Por nosotros
+\q1 murió en la cruz para salvarnos. 
+\q1 Por nosotros
+\q1 murió en la cruz para salvarnos. 
+\b 
+\s2 Coro:
+\q2 Ven, ven
+\q2 Ven, ven
+\q2 recibiendo,
+\q2 sigue a Jesucristo.
+\q2 recibiendo,
+\q2 sigue a Jesucristo.
+\b 
+\s2 2
+\q1 Tu pecado
+\q1 dejando, ven.
+\q1 Tu pecado
+\q1 dejando, ven.
+\q1 Dios nos ama a todos
+\q1 y no echa fuera a nadie.
+\q1 Dios nos ama a todos
+\q1 y no echa fuera a nadie.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 86 
+
+\s El Señor Jesucristo nació de la virgen María (Señor Jesucristu Birjinpita Yurimusha)
+\s2 Esto canta Margarita Ayra Basán
+\s2 Pinquiray Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El Señor Jesucristo
+\q1 nació de la virgen María.
+\q1 Él trajo
+\q1 salvación a esta tierra.
+\b 
+\s2 2
+\q1 El Señor Jesucristo
+\q1 en el cielo está.
+\q1 Él nos llama
+\q1 con los brazos abiertos.
+\b 
+\s2 3
+\q1 Ven vecino.
+\q1 Dios él mismo te llama.
+\q1 No te alejas.
+\q1 Dios él mismo te llama.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 87 
+
+\s Donde está Dios (Dios Cashanman)
+\s2 Esto canta «Salmistas de Yanec»
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Para entrar en donde está Dios,
+\q1 primero recibamos a Dios.
+\q1 Para entrar en donde está Dios,
+\q1 apartémonos primero del pecado
+\q1 y dejemos de hacer malas obras.
+\b 
+\s2 2
+\q1 Para vivir en donde está Dios,
+\q1 vivamos con amor entre unos y otros.
+\q1 Para vivir en donde está Dios,
+\q1 primero hay que perdonar a nuestro hermano,
+\q1 también a nuestra hermana.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 88 
+
+\s Cuando llega el juicio final (Juicio Junaj Ćhayamuptin)
+\s2 Esto canta «Maranp'aqui Inlisya»
+\s2 de Cusco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando llega el juicio final
+\q1 ¿cómo estará la gente?
+\q1 Todos los que viven en pecado
+\q1 serán apartados de Jesús.
+\q1 Serán apartados de Jesús.
+\b 
+\s2 2
+\q1 Estando en camino
+\q1 no obedecieron a Dios.
+\q1 Viviendo en pecado
+\q1 hacían lo que ellos querían.
+\q1 Hacían lo que ellos querían.
+\b 
+\s2 3
+\q1 Hombre que vives en pecado,
+\q1 recibe a Dios.
+\q1 Dejando tu pecado,
+\q1 confía en Dios.
+\q1 Confía en Dios.
+\b 
+\s2 4
+\q1 En la casa de Dios
+\q1 el Señor Jesús nos guiará.
+\q1 En la casa de Dios
+\q1 se acabará la tristeza.
+\q1 Se acabará la tristeza.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 89 
+
+\s Dios nos ama (Diosninchimi Cuyamanchi)
+\s2 Esto canta Margarita Ayra Basán, Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios nos ama.
+\q1 Dios nos ama.
+\q1 Lavó nuestro pecado
+\q1 con la sangre de su hijo.
+\q1 Lavó nuestro pecado
+\q1 con la sangre de su hijo.
+\b 
+\s2 2
+\q1 Jesucristo, hijo de Dios…
+\q1 Jesucristo, hijo de Dios-
+\q1 él murió en este mundo
+\q1 para llevar nuestro pecado.
+\q1 Él murió en este mundo
+\q1 para llevar nuestro pecado.
+\b 
+\s2 3
+\q1 Si confías en Jesús,
+\q1 si confías en Jesús,
+\q1 encontrarás salvación
+\q1 y te llevará a su gloria.
+\q1 Encontrarás salvación
+\q1 y te llevará a su gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 90 
+
+\s Oh qué gozo habrá (Ima Cushicuyraj)
+\s2 «Oh qué gozo habrá» esta alabanza iguala
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Oh qué gozo habrá
+\q1 allá en el cielo,
+\q1 cuando creen toda la gente
+\q1 y lleguen a su gloria.
+\b 
+\s2 2
+\q1 Oh qué triste será
+\q1 en el infierno.
+\q1 Los que no creen
+\q1 se quemarán en el fuego.
+\b 
+\s2 3
+\q1 Ven vecino
+\q1 a Cristo Jesús.
+\q1 Él te perdonará
+\q1 todos tus pecados.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 91 
+
+\s Corazón de piedra (Rumi Shungu Runa)
+\s2 «Corazón de piedra» esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Corazón de piedra,
+\q1 ¿a dónde estás yendo?
+\q1 porque no escuchas,
+\q1 corazón de piedra.
+\b 
+\s2 2
+\q1 Jesús te llama.
+\q1 No menosprecies.
+\q1 Si no recibes a él,
+\q1 te quemarás en el fuego.
+\b 
+\s2 3
+\q1 Jesús nos dice:
+\q1 “Dame tu corazón.
+\q1 Como agua
+\q1 seré para tu alma.”
+\b 
+\s2 4
+\q1 Ya no llores.
+\q1 Nos iremos al cielo.
+\q1 Allí viviremos
+\q1 eternamente.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 92 
+
+\s Dios nos ama (Diosninchiga Cuyamanchi)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios nos ama
+\q1 a todos.
+\q1 Dios nos ama
+\q1 a todos.
+\q1 Al negro y al blanco
+\q1 Dios ama.
+\q1 Al negro y al blanco
+\q1 Dios ama.
+\b 
+\s2 2
+\q1 Dios envió
+\q1 a su hijo amado.
+\q1 Dios envió
+\q1 a su hijo amado
+\q1 a toda la gente
+\q1 para perdonar.
+\q1 …A toda la gente
+\q1 para perdonar.
+\b 
+\s2 3
+\q1 Los hombres mataron
+\q1 a Jesucristo.
+\q1 Los hombres mataron
+\q1 a Jesucristo.
+\q1 Muriendo, resucitó
+\q1 con su poder.
+\q1 Muriendo, resucitó
+\q1 con su poder.
+\b 
+\s2 4
+\q1 Jesucristo amándote,
+\q1 te está llamando.
+\q1 Jesucristo amándote,
+\q1 te está llamando.
+\q1 Confía en él
+\q1 y recibe hoy.
+\q1 Confía en él
+\q1 y recibe hoy.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 93 
+
+\s ¿Qué habrás hecho? (¿Imatataj Ruraycanqui?)
+\s2 Esta alabanza se cantó en San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 ¿Qué habrás hecho?
+\q1 ¿Por qué tienes pena?
+\q1 Para que no seas así,
+\q1 recibe a Dios.
+\q1 Para que no seas así,
+\q1 recibe a Dios.
+\b 
+\s2 Coro:
+\q2 Jesucristo, te ama.
+\q2 Entra en mi corazón.
+\q2 Jesucristo, te ama.
+\q2 Entra en mi corazón.
+\b 
+\s2 2
+\q1 ¿Qué habrás hecho?
+\q1 ¿Por qué tienes miedo?
+\q1 Para que no tengas miedo,
+\q1 confía en Dios.
+\q1 Para que no tengas miedo,
+\q1 confía en Dios.
+\b 
+\s2 Coro:
+\q2 Jesucristo, te ama.
+\q2 Entra en mi corazón.
+\q2 Jesucristo, te ama.
+\q2 Entra en mi corazón.
+\b 
+\s2 3
+\q1 Dios nos conoce.
+\q1 Conoce nuestros pecados.
+\q1 Él mismo nos juzgará
+\q1 todo lo que hemos hecho.
+\q1 Él mismo nos juzgará
+\q1 todo lo que hemos hecho.
+\b 
+\s2 Coro:
+\q2 Jesucristo, te ama.
+\q2 Entra en mi corazón.
+\q2 Jesucristo, te ama.
+\q2 Entra en mi corazón.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 94 
+
+\s Hay dos caminos (Ishcay Caminu)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hay dos caminos para ofrecer…
+\q1 Hay dos caminos para ofrecer:
+\q1 uno de la muerte, otro de la vida.
+\q1 Uno de la muerte, otro de la vida.
+\b 
+\s2 2
+\q1 Si no recibes a Dios,
+\q1 estás yendo por otro camino.
+\q1 Si no recibes a Dios,
+\q1 estás yendo por otro camino.
+\q1 Por el camino que vas, te llevará a la muerte.
+\q1 Por el camino que vas, te llevará a la muerte.
+\b 
+\s2 3
+\q1 Por el camino que vas,
+\q1 estás perdido.
+\q1 Por el camino que vas,
+\q1 estás perdido.
+\q1 Ven a Jesús. Él te salvará.
+\q1 Ven a Jesús. Él te salvará.
+\b 
+\s2 4
+\q1 Jesús nos dijo:
+\q1 “Yo soy el camino.”
+\q1 Jesús nos dijo:
+\q1 “Yo soy el camino.
+\q1 Si vas por ese camino, llegarás a la gloria.
+\q1 Si vas por ese camino, llegarás a la gloria.”
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 95 
+
+\s Jesucristo te llama (Jesucristomi Jayaycäshunqui)
+\s2 Esto canta Margarita Ayra Basán Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo te llama.
+\q1 Jesucristo te llama.
+\q1 Hoy recibe su amor.
+\q1 Él te llama porque te ama.
+\b 
+\s2 2
+\q1 Deja de hacer el pecado.
+\q1 Deja de hacer el pecado.
+\q1 Ahora ven delante de Dios.
+\q1 Él lavará tus pecados.
+\b 
+\s2 3
+\q1 Ahora recibe en tu corazón.
+\q1 Ahora recibe en tu corazón.
+\q1 Jesucristo dice: “Ven a mí”.
+\q1 El mismo Jesucristo te llama.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 96 
+
+\s Lo que dijo Jesús (Jesús Nishanta)
+\s2 Esto cantó «Los Hijos de Sión»
+\s2 de Huánuco.(Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Escucha lo que dijo Jesús.
+\q1 Recibe la salvación.
+\q1 Vendrá con su poder.
+\q1 Llevará a sus hijos.
+\b 
+\s2 2
+\q1 Al Señor Jesús amaremos.
+\q1 Prediquemos su mensaje.
+\q1 Por su voluntad viviremos.
+\q1 Le serviremos con alegría.
+\b 
+\s2 3
+\q1 Vengan amigos
+\q1 para cantar al Señor Jesús.
+\q1 Dios nos ama.
+\q1 Adoremos con alegría.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 97 
+
+\s Ahora debes escoger (Cananllami Acranquiman)
+\s2 Esto cantó «Salmistas de Yanec»
+\s2 de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Ahora debes escoger.
+\q1 ¿A quién servirás:
+\q1 a Dios, o al diablo?
+\q1 ¿A quién servirás tú?
+\b 
+\s2 2
+\q1 Algunos hombres pecadores,
+\q1 sirven al diablo.
+\q1 Yo serviré a Dios,
+\q1 con alegría serviré.
+\b 
+\s2 3
+\q1 ¿Caliente, frío,
+\q1 estás para Dios?
+\q1 No seas tibio,
+\q1 Dios te vomitará.
+\b 
+\s2 4
+\q1 Ahora es el tiempo de salvación
+\q1 para que recibas.
+\q1 No seas de duro corazón.
+\q1 Hoy recibe a Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 98 
+
+\s En este mundo la gente camina (Cay Mundućhu Runa Purin)
+\s2 Esto cantó «Yayaq Camachin»
+\s2 de cusco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En este mundo la gente camina
+\q1 en su pecado todos los días.
+\q1 Si te apartas de Dios,
+\q1 vivirás perdido.
+\q1 Si te apartas de Dios,
+\q1 vivirás perdido.
+\b 
+\s2 2
+\q1 Dios envió
+\q1 a su hijo amado
+\q1 para morir por un pecador,
+\q1 para que tenga una vida nueva.
+\q1 …Para morir por un pecador,
+\q1 para que tenga una vida nueva.
+\b 
+\s2 3
+\q1 Pon tu confianza, corazón de piedra,
+\q1 porque Cristo te ama.
+\q1 Si sólo vives en tu pecado
+\q1 te quemarás en el infierno.
+\q1 Si sólo vives en tu pecado
+\q1 te quemarás en el infierno.
+\b 
+\s2 4
+\q1 Cuando llegue el juicio
+\q1 ¿qué le dirás a Dios?
+\q1 Si mueres en tu pecado,
+\q1 apartado serás de él.
+\q1 Si mueres en tu pecado,
+\q1 apartado serás de él.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 99 
+
+\s Ya volverá el Señor Jesús (Cutimungami Señor Jesúsllä)
+\s2 Esto cantó «Los Serafines de Yaurín»
+\s2 Conchamarca, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Ya volverá el Señor Jesús,
+\q1 ya viene el Señor Jesús.
+\q1 Preparémonos, hermanos (hermanas),
+\q1 para recibir al Señor Jesús.
+\b 
+\s2 2
+\q1 Con nosotros él quiere vivir.
+\q1 Recibe al Señor Jesús.
+\q1 Tú, ¿porque estás negando
+\q1 el amor del Señor Jesús?
+\b 
+\s2 3
+\q1 Un gozo encontraremos
+\q1 delante del Señor Jesús.
+\q1 Con amor nos recibirá
+\q1 para vivir en su gloria.
+\b 
+\s2 4
+\q1 Si no recibes a Jesús,
+\q1 si no confías en Jesús,
+\q1 tú, ¿cómo sufrirás
+\q1 con tu pecado en el infierno?
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 100 
+
+\s Camino extraviado (Llutan Caminupa)
+\s2 Esto canta Margarita Ayra Basán
+\s2 Pinquiray Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando vas por el camino extraviado,
+\q1 tú estás perdido.
+\q1 Jesucristo te llama
+\q1 cuando andas perdido
+\q1 y cuando andas extraviado.
+\q1 Cuando vas por el camino extraviado,
+\q1 tú estás perdido.
+\q1 Jesucristo te llama
+\q1 cuando andas perdido
+\q1 y cuando andas extraviado.
+\b 
+\s2 2
+\q1 Jesucristo es el camino.
+\q1 Sólo confía en él.
+\q1 Mientras tú vives, busca
+\q1 a tu corazón el Salvador.
+\q1 Él te llevará a su gloria.
+\q1 Jesucristo es el camino.
+\q1 Sólo confía en él.
+\q1 Mientras tú vives, busca a Dios
+\q1 tu salvación.
+\q1 Él te llevará a su gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 101 
+
+\s Niño Jesús (Nïño Jesús)
+\s2 Esta alabanza se cantó en San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús nació en Belén
+\q1 vino con el poder de Dios.
+\q1 Jesús nació en Belén
+\q1 vino con el poder de Dios. 
+\b 
+\s2 Coro:
+\q2 Por amor a nosotros
+\q2 vino dejando su gloria.
+\q2 Por amor a nosotros
+\q2 vino dejando su gloria.
+\b 
+\s2 2
+\q1 El ángel llevó el mensaje a sus pastores:
+\q1 “Ya nació el Salvador”, así dijo.
+\q1 El ángel llevó el mensaje a sus pastores:
+\q1 “Ya nació el Salvador”, así dijo.
+\b 
+\s2 Coro:
+\q2 Por amor a nosotros
+\q2 vino dejando su gloria.
+\q2 Por amor a nosotros
+\q2 vino dejando su gloria.
+\b 
+\s2 3
+\q1 Los pastores dijeron: “Vamos ahora.
+\q1 Lo que nos dijo hay que ver”.
+\q1 Los pastores dijeron: “Vamos ahora.
+\q1 Lo que nos dijo hay que ver”.
+\b 
+\s2 Coro:
+\q2 Por amor a nosotros
+\q2 vino dejando su gloria.
+\q2 Por amor a nosotros
+\q2 vino dejando su gloria.
+\b 
+\s2 4
+\q1 Nosotros también recibamos pronto
+\q1 a Jesucristo quien nos ama.
+\q1 Nosotros también recibamos pronto
+\q1 a Jesucristo quien nos ama.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 102 
+
+\s Cien ovejas (Paćhac Uysha)
+\s2 Esto canta «Salmistas de Yanec» de Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cien ovejas eran.
+\q1 Un hombre cuidaba.
+\q1 Contó al atardecer
+\q1 y faltó uno.
+\b 
+\s2 2
+\q1 Muy pronto fue a buscar
+\q1 con tristeza.
+\q1 Aunque era de noche, buscó
+\q1 preguntando, caminaba.
+\b 
+\s2 3
+\q1 Al estar cansado de buscar,
+\q1 encontró lo que perdió.
+\q1 Levantando en sus brazos, llevó,
+\q1 con gozo se llevó.
+\b 
+\s2 4
+\q1 De tal manera Dios,
+\q1 Dios te llama
+\q1 de una vez. A él recíbelo
+\q1 con él para caminar.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 103 
+
+\s Somos pasajeros (Aywacujllami Canchi)
+\s2 Esto canta Margarita Ayra Basán
+\s2 Pinquiray Panao.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Somos pasajeros,
+\q1 somos visitantes.
+\q1 Mañana nos iremos
+\q1 arriba al cielo.
+\q1 Somos pasajeros,
+\q1 somos visitantes.
+\q1 Mañana nos iremos
+\q1 arriba al cielo.
+\b 
+\s2 2
+\q1 Nuestro Padre del cielo
+\q1 nos está llamando.
+\q1 ¿A dónde estás yendo,
+\q1 corazón de piedra?
+\q1 Nuestro Padre del cielo
+\q1 nos está llamando.
+\q1 ¿A dónde estás yendo,
+\q1 corazón de piedra?
+\b 
+\s2 3
+\q1 Con tus pecados
+\q1 llegarás a la muerte.
+\q1 Con tus pecados
+\q1 tú quemarás en el fuego.
+\q1 Con tus pecados
+\q1 llegarás a la muerte.
+\q1 Con tus pecados
+\q1 tú quemarás en el fuego.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 104 
+
+\s Amigos (Runa‑Masillä)
+\s2 Cayta Cantasha «Voz del Creyente»
+\s2 Pacayhua, Huánuco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Amigos,
+\q1 vengan a Jesús.
+\q1 Él te llama
+\q1 con los brazos abiertos.
+\q1 Amigos,
+\q1 vengan a Jesús.
+\q1 Él te llama
+\q1 con los brazos abiertos.
+\q1 Todo pecado
+\q1 te perdonará.
+\q1 Dejando tu pecado,
+\q1 ven a Jesús
+\q1 Todo pecado
+\q1 te perdonará.
+\q1 Dejando tu pecado,
+\q1 ven a Jesús
+\b 
+\s2 2
+\q1 Hay que estar listos
+\q1 para la venida del Cristo.
+\q1 Él nos llevará
+\q1 a la casa de Dios.
+\q1 Hay que estar listos
+\q1 para la venida del Cristo.
+\q1 Él nos llevará
+\q1 a la casa de Dios.
+\q1 En esta tierra
+\q1 cuando regrese,
+\q1 nos llevará
+\q1 a la casa de Dios.
+\q1 En esta tierra
+\q1 cuando regrese,
+\q1 nos llevará
+\q1 a la casa de Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 105 
+
+\s A nuestro padre Dios yo le hago alegrar (Tayta Diosninchita Cushichïmi)
+\s2 Esta alabanza se cantó en San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 A nuestro Padre Dios
+\q1 yo le hago alegrar,
+\q1 A nuestro Padre Dios
+\q1 yo le hago alegrar,
+\q1 con un corazón nuevo
+\q1 confiando en él,
+\q1 con todo mi corazón
+\q1 confío en él.
+\b 
+\s2 2
+\q1 La venida de Cristo
+\q1 ya está muy cerca.
+\q1 La venida de Cristo
+\q1 ya está muy cerca.
+\q1 Te hablo ahora:
+\q1 ven a Cristo.
+\q1 Te hablo ahora:
+\q1 ven a Cristo.
+\b 
+\s2 3
+\q1 Cristo te llama
+\q1 para perdonarte.
+\q1 Cristo te llama
+\q1 para perdonarte.
+\q1 Todo tu pecado
+\q1 él se llevará.
+\q1 Todo tu pecado
+\q1 él se llevará.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 106 
+
+\s No te das cuenta (¿Yarpaćhacunquichu?)
+\s2 Esto cantó «Mensajeros de Dios» Ayacucho.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 ¿No te das cuenta del alto cielo,
+\q1 del sol y la luna?
+\q1 ¿No te das cuenta del alto cielo,
+\q1 del sol y la luna?
+\q1 Esta planeta creó Dios
+\q1 para darnos cuenta.
+\q1 Esta planeta creó Dios
+\q1 para darnos cuenta.
+\b 
+\s2 2
+\q1 ¿No te das cuenta de la tierra
+\q1 como crecen las flores?
+\q1 ¿No te das cuenta de la tierra
+\q1 como crecen las flores?
+\q1 Todo esto creó Dios
+\q1 para que comprendemos.
+\q1 Todo esto creó Dios
+\q1 para que comprendemos.
+\b 
+\s2 3
+\q1 ¿Nosotros no nos damos cuenta
+\q1 que somos de él?
+\q1 ¿Nosotros no nos damos cuenta
+\q1 que somos de él?
+\q1 Nos da de comer. Nos da vida,
+\q1 nos hace crecer, nos salva.
+\q1 Nos da de comer. Nos da vida,
+\q1 nos hace crecer, nos salva.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 107 
+
+\s Amigo, reciba a Dios (Runa Masicuna Diosta Ćhasquicuy)
+\s2 «Todos y todos» a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Amigo, reciba a Dios.
+\q1 No niegues su llamado.
+\q1 Murió en la cruz para salvarte.
+\q1 Todo tu pecado te perdonará.
+\b 
+\s2 2
+\q1 Nuestro Papá Dios te ama.
+\q1 Deja tus pecados.
+\q1 Vivirás bien con él.
+\q1 Si no te arrepientes, sufrirás.
+\b 
+\s2 3
+\q1 Vecino, ven a Cristo Jesús.
+\q1 Abre tu duro corazón.
+\q1 Él te dará gozo.
+\q1 Te llevará a su gloria.
+\b 
+\s2 4
+\q1 Señor Jesucristo te alabo a ti.
+\q1 De todos mis pecados me has perdonado.
+\q1 Me acompañas a donde vaya.
+\q1 Te seguiré con todo mi corazón.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 108 
+
+\s Noé predicó (Noé Willacuran)
+\s2 «Antes del diluvio Noé predicó» a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Noé predicó el mensaje de Dios
+\q1 los ciento veinte años.
+\q1 La gente no le hizo caso
+\q1 porque vivía en sus pecados.
+\b 
+\s2 2
+\q1 Cuando vivió Noé seiscientos años
+\q1 con diecisiete días, en dos meses
+\q1 Dios hizo llover
+\q1 para terminar a la humanidad.
+\b 
+\s2 3
+\q1 Cuarenta días y cuarenta noches
+\q1 Dios hizo llover.
+\q1 Por miles murió la gente.
+\q1 Sólo ocho personas se salvaron.
+\b 
+\s2 4
+\q1 El mensaje de Dios
+\q1 recibe hoy mismo.
+\q1 Si no recibes serás castigado.
+\q1 Si recibes serás salvado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 109 
+
+\s No tengas pena hermano (Ama Llaquicuychu Wauguicuna)
+\s2 «Canta tu victoria hermano» a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 No tengas pena, hermano,
+\q1 cuando vienen los sufrimientos.
+\q1 No tengas pena, hermano,
+\q1 cuando viene el sufrimiento.
+\q1 Cuando sufrimos y lloramos
+\q1 con nosotros está Dios.
+\q1 Cuando sufrimos y lloramos
+\q1 con nosotros está Dios.
+\b 
+\s2 2
+\q1 Cuando morimos ninguna de
+\q1 nuestras cosas llevaremos.
+\q1 Cuando morimos ninguna de
+\q1 nuestras cosas llevaremos.
+\q1 Delante de Dios
+\q1 llegaremos sin nada.
+\q1 Delante de Dios
+\q1 llegaremos sin nada.
+\b 
+\s2 3
+\q1 Delante de Dios
+\q1 con gozo viviremos.
+\q1 Delante de Dios
+\q1 con gozo viviremos.
+\q1 Con los ángeles reunidos
+\q1 le alabaremos todos los días.
+\q1 Con los ángeles reunidos
+\q1 le alabaremos todos los días.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 110 
+
+\s Dios es amor no te enojes (Cuyacuj Diosnï Ama Rabyacuychu)
+\s2 Esta alabanza canta
+\s2 Filomón Falcón Santos, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios es amor, no te enojes.
+\q1 Dios es amor, no te enojes.
+\q1 Yo vivía en pecado,
+\q1 cometiendo pecado vivía yo.
+\b 
+\s2 2
+\q1 Ayúdame Dios mío.
+\q1 Enséñame Dios mío
+\q1 para enseñar tu palabra,
+\q1 para aprender bien tu palabra.
+\b 
+\s2 3
+\q1 Dios mío sólo te pido a ti.
+\q1 Dios de misericordia te ruego
+\q1 para comprender bien tu palabra,
+\q1 día y noche para caminar contigo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 111 
+
+\s Dios mío, ten compasión (Diosnillä, Cuyapaycallämay)
+\s2 Esta alabanza cantó
+\s2 Filomón Falcón Santos, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios mío, ten compasión.
+\q1 Dios mío, ayúdame
+\q1 para hacer conforme a tu palabra,
+\q1 para vivir alegre.
+\b 
+\s2 2
+\q1 Dios mío, enséñame.
+\q1 Dios mío, ayúdame
+\q1 para amar a mis prójimos,
+\q1 para amar a otros.
+\b 
+\s2 3
+\q1 ¡Dios mío, cómo tú me amas!
+\q1 ¡Dios mío, cómo me has recibido!
+\q1 para amar a mis prójimos,
+\q1 para amar a mis enemigos.
+\b 
+\s2 4
+\q1 Hermanos, amémonos unos a otros.
+\q1 Hermanas, amémonos unos a otros,
+\q1 como Dios nos dijo,
+\q1 como Dios amó al mundo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 112 
+
+\s Como estarás (Imanüraj Canqui)
+\s2 Esta alabanza canta
+\s2 Severo Vega Mayle, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 ¿Cómo estarás cuando mueres en tu pecado?
+\q1 ¿Cómo estarás si no recibes a Dios en tu vida?
+\q1 Si no recibes a Dios, irás al infierno.
+\q1 Cuando mueres en tu pecado, quemarás en el fuego.
+\b 
+\s2 2
+\q1 Jesucristo murió para salvarnos.
+\q1 Por nosotros derramó su sangre,
+\q1 para llevarnos a la presencia de Dios,
+\q1 para que nos lleve a su gloria.
+\b 
+\s2 3
+\q1 Estás escuchando mi palabra.
+\q1 Ya sabes tú su palabra.
+\q1 Los que reciben a Cristo serán perdonados.
+\q1 Los que obedecen serán salvos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 113 
+
+\s Hermanos y hermanas por nosotros (Waugui Panicuna Nuwanchi Raycurmi)
+\s2 Esta alabanza arregló “Equipo de Traductores” 
+\s2 Huánuco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermanos y hermanas,
+\q1 por nosotros
+\q1 el Señor Jesucristo
+\q1 murió en la cruz.
+\q1 Hermanos y hermanas,
+\q1 por nosotros
+\q1 el Señor Jesucristo
+\q1 murió en la cruz.
+\q1 Ahora nadie
+\q1 nos impide
+\q1 para llegar
+\q1 a Dios.
+\q1 Ahora nadie
+\q1 nos impide
+\q1 para llegar
+\q1 a Dios.
+\b 
+\s2 2
+\q1 Sabiendo esto,
+\q1 hay que cuidarnos, hermanos,
+\q1 ni volver
+\q1 al pecado.
+\q1 Sabiendo esto,
+\q1 hay que cuidarnos, hermanos,
+\q1 ni volver
+\q1 al pecado.
+\q1 Si vuelves atrás
+\q1 serás juzgado.
+\q1 Si no vuelves al pecado
+\q1 serás salvo.
+\q1 Si vuelves atrás
+\q1 serás juzgado.
+\q1 Si no vuelves al pecado
+\q1 serás salvo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 114 
+
+\s Como lo vería (Imanuyparaj Ricayculläman)
+\s2 Esta alabanza arregló
+\s2 Próspero Colonia Macedo, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 ¿Cómo le vería
+\q1 a Jesucristo Dios
+\q1 Me extraña mucho
+\q1 con gozo, con gozo,
+\q1 En mi idioma quechua:
+\q1  “Te amo” me dirá?
+\b 
+\s2 2
+\q1 Aunque veo sus obras,
+\q1 no lo veo a él mismo.
+\q1 Si a él recibo,
+\q1 en él confío,
+\q1 en cualquier momento
+\q1 con él me encontraré.
+\b 
+\s2 3
+\q1 Gracias Dios, gracias mi Jesús,
+\q1 con amor me has salvado.
+\q1 Cuando me ayudas,
+\q1 cuando me enseñas,
+\q1 hasta mi muerte
+\q1 a ti, te serviré.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 115 
+
+\s Que no se endurezca mi corazón (Shungullä Chucruyaycuchunchu)
+\s2 "Corazón, ¿por qué te endureces?" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Que no se endurezca mi corazón.
+\q1 Que mi corazón no sea como piedra.
+\q1 Quiero servir a mi Dios.
+\q1 Caminaré con Jesús.
+\b 
+\s2 Coro:
+\q2 Dios Padre, perdóname.
+\q2 Dios Padre, ten piedad de mí.
+\q2 Soy hombre pecador.
+\q2 Sálvame, Dios mío.
+\b 
+\s2 2
+\q1 Gracias mi Dios compasivo,
+\q1 gracias mi Señor Jesucristo.
+\q1 Por amarme tú has muerto
+\q1 para lavar mis pecados.
+\b 
+\s2 Coro:
+\q2 Dios Padre, perdóname.
+\q2 Dios Padre, ten piedad de mí.
+\q2 Soy hombre pecador.
+\q2 Sálvame, Dios mío.
+\b 
+\s2 3
+\q1 Dios mío, ayúdame.
+\q1 Dios mío, enséñame
+\q1 para aprender de la Biblia,
+\q1 para vivir sin pecado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 116 
+
+\s No quiero hacer pecado (Jucha Rurayta Munallächu)
+\s2 Esta alabanza acomodó Condormarca, Cayrán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 No quiero hacer pecado
+\q1 porque es del diablo.
+\q1 Cuando hacía lo que él quería
+\q1 yo sufría mucho.
+\b 
+\s2 2
+\q1 Sólo en pecado vivía.
+\q1 Era enemigo de Dios.
+\q1 Cuando me di cuenta
+\q1 mi corazón se entristeció.
+\b 
+\s2 3
+\q1 Por eso rogaba a Jesús
+\q1 para limpiar mis pecados.
+\q1 Cuando recibo tu palabra,
+\q1 todos los días me ayudas.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 117 
+
+\s Mi Jesús murió (Jesúsllämi Wañullaran)
+\s2 Esta alabanza arregló
+\s2 Ranra Huayi, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Mi Jesús murió
+\q1 por culpa de los pecadores.
+\q1 En la cruz del Calvario
+\q1 sufrió por nosotros.
+\b 
+\s2 2
+\q1 Seguiré a mi Jesús
+\q1 predicando su palabra.
+\q1 Aunque no me acepte la gente
+\q1 no dejaré a Jesucristo.
+\b 
+\s2 3
+\q1 En Jerusalén
+\q1 mataron a Jesucristo.
+\q1 Le pusieron una corona de espina
+\q1 y derramó su sangre.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 118 
+
+\s Adán y Eva (Adán Eva)
+\s2 No se sabe quién cantó.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Adán, Eva obedecieron a Satanás.
+\q1 Por eso hay sufrimiento en esta tierra.
+\q1 Dios con su amor
+\q1 aceptó enviar a su hijo.
+\b 
+\s2 2
+\q1 Jesucristo cumplió lo que dijo Dios.
+\q1 Él nació como hombre en esta tierra.
+\q1 Satanás enfureció al rey Herodes
+\q1 para matar.
+\b 
+\s2 3
+\q1 Jesucristo ayudó a los hombres
+\q1 cuando estaban tristes.
+\q1 Él sanó a los enfermos.
+\q1 Reprendió al diablo con su poder.
+\b 
+\s2 4
+\q1 Algunos hombres odiaban al Señor Jesús.
+\q1 Pidieron a Pilato para matarlo.
+\q1 En la cruz clavado lo mataron.
+\q1 Por nosotros padeció.
+\b 
+\s2 5
+\q1 Jesús resucitó de la muerte.
+\q1 Ahora él vive delante de su padre.
+\q1 Todo lo ha puesto delante de él.
+\q1 “Yo estaré contigo”, dijo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 119 
+
+\s Hay que esperar a Jesucristo (Jesucristota Suyäcushun)
+\s2 "Esperando estoy aquí" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hay que esperar a Jesucristo,
+\q1 pronto viene.
+\q1 Hay que esperar a Jesucristo,
+\q1 pronto viene.
+\q1 Hermanos míos, a Dios
+\q1 esperemos con amor.
+\q1 Hermanos míos, a Dios
+\q1 esperemos con amor.
+\b 
+\s2 2
+\q1 Sufrimiento ya no habrá
+\q1 cuando venga mi Salvador.
+\q1 Sufrimiento ya no habrá
+\q1 cuando venga mi Salvador.
+\q1 Vuelve para llevarnos
+\q1 en la presencia de Dios.
+\q1 Vuelve para llevarnos
+\q1 en la presencia de Dios.
+\b 
+\s2 3
+\q1 Serviremos a nuestro Dios,
+\q1 lo que él dice hay que obedecer.
+\q1 Serviremos a nuestro Dios,
+\q1 lo que él dice hay que obedecer.
+\q1 Aunque vivimos triste,
+\q1 en el cielo nos gozaremos.
+\q1 Aunque vivimos triste,
+\q1 en el cielo nos gozaremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 120 
+
+\s A donde vayamos (Maypa Aywashapis)
+\s2 "Dios está presente donde quiera vayas" esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 A donde vayamos
+\q1 nuestro Dios está.
+\q1 A donde vayamos
+\q1 nuestro Dios está.
+\q1 Día y noche
+\q1 él está mirando.
+\q1 Día y noche
+\q1 él está mirando.
+\b 
+\s2 2
+\q1 En mis problemas
+\q1 ruego a él.
+\q1 En mis problemas
+\q1 ruego a él.
+\q1 Él me apoya
+\q1 para vivir bien.
+\q1 Él me apoya
+\q1 para vivir bien.
+\b 
+\s2 3
+\q1 Jesucristo viene
+\q1 para juzgar al hombre.
+\q1 Jesucristo viene
+\q1 para juzgar al hombre.
+\q1 Amigo,
+\q1 ¿cómo estarás?
+\q1 Si no recibes
+\q1 serás juzgado.
+\b 
+\s2 4
+\q1 Si a él recibimos
+\q1 iremos a su gloria.
+\q1 Si a él recibimos
+\q1 iremos a su gloria.
+\q1 Ahí con gozo
+\q1 viviremos,
+\q1 con los ángeles
+\q1 alabaremos a él.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 121 
+
+\s Dios todo poderoso eres tú (Tayta Diosnï Munayniyuj Canqui)
+\s2 Cayta Alabanzata Cantasha Leoncio Cierto Marcos
+\s2 Jacas Grande, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios todopoderoso eres tú.
+\q1 Los cerros tú hiciste,
+\q1 agua y comida,
+\q1 animales y personas.
+\q1 agua y comida,
+\q1 animales y personas.
+\b 
+\s2 2
+\q1 Dios todopoderoso eres tú.
+\q1 Tú amas al hombre.
+\q1 Perdonaste mis pecados.
+\q1 Tu recibes para que sea tu hijo.
+\q1 Perdonaste mis pecados.
+\q1 Tu recibes para que sea tu hijo.
+\b 
+\s2 3
+\q1 Dios eres todopoderoso.
+\q1 Sólo a ti te alabaré.
+\q1 Enséñame tu palabra
+\q1 a quien sea para avisar.
+\q1 Enséñame tu palabra
+\q1 a quien sea para avisar.
+\b 
+\s2 4
+\q1 Dios eres todopoderoso.
+\q1 En el cielo estás sentado
+\q1 para ayudarme
+\q1 y llevarme a tu gloria.
+\q1 para ayudarme
+\q1 y llevarme a tu gloria.
+\b 
+\s2 Fuga:
+\q1 Mientras viva o muera
+\q1 sólo soy de ti Señor Jesús.
+\q1 Sea pobre o huérfano
+\q1 nunca me apartaré.
+\q1 Mientras viva o muera
+\q1 sólo soy de ti Señor Jesús.
+\q1 Sea pobre o huérfano
+\q1 nunca me apartaré.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 122 
+
+\s Será de día o de noche (Pagaspachuraj Junajpachuraj)
+\s2 Esto canta Tólido Palacios, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 ¿Será de noche o de día?
+\q1 ¿Cristo Jesús ya vuelve pronto?
+\q1 Ay, ¿cómo lo sentiría
+\q1 para dormir al despierto?
+\b 
+\s2 2
+\q1 En el libro de Dios están escritos
+\q1 los nombres de los salvados.
+\q1 Ay, cuando llame por mi nombre
+\q1 como paloma me iré.
+\b 
+\s2 3
+\q1 Cuando llegue delante de Dios
+\q1 veré a Cristo Jesús.
+\q1 Ay ¡cómo me gozaré
+\q1 al recibir con un cuerpo transformado!
+\b 
+\s2 4
+\q1 Al saber eso te alabo,
+\q1 con todo mi corazón te alabaré.
+\q1 Nunca olvidaré
+\q1 la palabra que me has dado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 123 
+
+\s Gracias mi Dios (Rasias Tayta Dios)
+\s2 Esto canta Conjunto Cushi Shungu
+\s2 Jacas Grande, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Gracias mi Dios,
+\q1 tú eres bueno.
+\q1 Gracias mi Dios,
+\q1 tú eres bueno.
+\q1 Tú me salvas
+\q1 de Satanás.
+\q1 Tú me salvas
+\q1 de Satanás.
+\b 
+\s2 2
+\q1 Por eso con gozo
+\q1 te alabo.
+\q1 Por eso con gozo
+\q1 te alabo.
+\q1 Con todo mi corazón
+\q1 a ti te alabo.
+\q1 Con todo mi corazón
+\q1 a ti te alabo.
+\b 
+\s2 3
+\q1 Tu hijo Jesús
+\q1 en la cruz murió.
+\q1 Tu hijo Jesús
+\q1 en la cruz murió.
+\q1 Así muriendo
+\q1 me dio la vida.
+\q1 Así muriendo
+\q1 me dio la vida.
+\b 
+\s2 4
+\q1 Por eso con gozo
+\q1 te alabo a ti.
+\q1 Por eso con gozo
+\q1 te alabo a ti.
+\q1 Cuando soy salvado
+\q1 ya soy tu hijo.
+\q1 Cuando soy salvado
+\q1 ya soy tu hijo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 124 
+
+\s Esta tierra y cielo (Cay Pachatapis Cielotapis)
+\s2 Esto canta Tólido Palacios
+\s2 Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Esta tierra y cielo
+\q1 Dios ha formado.
+\q1 Esta tierra y cielo
+\q1 Dios ha formado.
+\q1 Que existe todo,
+\q1 con su poder lo hizo.
+\q1 Que existe todo,
+\q1 con su poder lo hizo.
+\b 
+\s2 2
+\q1 En el primer día creó
+\q1 la luz y la oscuridad.
+\q1 En el primer día creó
+\q1 la luz y la oscuridad.
+\q1 Cuando hay el día y la noche,
+\q1 al ver su obra Dios se maravilló.
+\q1 Cuando hay el día y la noche,
+\q1 al ver su obra Dios se maravilló.
+\b 
+\s2 3
+\q1 El segundo día creó
+\q1 nubes para llover.
+\q1 El segundo día creó
+\q1 nubes para llover.
+\q1 Cuando era bueno
+\q1 Dios se maravilló.
+\q1 Cuando era bueno
+\q1 Dios se maravilló.
+\b 
+\s2 4
+\q1 En el tercer día creó
+\q1 los peces en el mar.
+\q1 En el tercer día creó
+\q1 los peces en el mar.
+\q1 La tierra creó,
+\q1 también los árboles y flores.
+\q1 La tierra creó,
+\q1 también los árboles y flores.
+\b 
+\s2 5
+\q1 En el cuarto día creó
+\q1 el sol y la luna.
+\q1 En el cuarto día creó
+\q1 el sol y la luna.
+\q1 Al ver su obra que alumbra,
+\q1 Dios se maravilló.
+\q1 Al ver su obra que alumbra,
+\q1 Dios se maravilló.
+\b 
+\s2 6
+\q1 En el quinto día creó
+\q1 a las aves para volar.
+\q1 En el quinto día creó
+\q1 a las aves para volar.
+\q1 También hizo el mar,
+\q1 toda clase de peces.
+\q1 También hizo el mar,
+\q1 toda clase de peces.
+\b 
+\s2 7
+\q1 En la sexta día creó
+\q1 toda clase de animales,
+\q1 En la sexta día creó
+\q1 toda clase de animales,
+\q1 y personas como él
+\q1 para que vea lo que hizo.
+\q1 y personas como él
+\q1 para que vea lo que hizo.
+\b 
+\s2 8
+\q1 En el séptimo día reposó,
+\q1 terminado su trabajo.
+\q1 En el séptimo día reposó,
+\q1 terminado su trabajo.
+\q1 Hay que recordar nosotros
+\q1 también para alabar a Dios.
+\q1 Hay que recordar nosotros
+\q1 también para alabar a Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 125 
+
+\s El alma que no siente (Mana Mayaj Alma)
+\s2 Esto canta Tólido Palacios
+\s2 de Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El alma que no siente
+\q1 ¿cómo lo verás?
+\q1 El alma que no siente
+\q1 ¿cómo lo verás?
+\q1 Nuestro Dios te dirá:
+\q1 “¿Quién serás?
+\q1 no te conozco.”
+\q1 Nuestro Dios te dirá:
+\q1 “¿Quién serás?
+\q1 no te conozco.”
+\b 
+\s2 2
+\q1 Recibe a Dios.
+\q1 Él te dará vida.
+\q1 Recibe a Dios.
+\q1 Él te dará vida.
+\q1 Cuando te arrepientes te dirá:
+\q1 “Eres mi hijo.
+\q1 Ven a mí.”
+\q1 Cuando te arrepientes te dirá:
+\q1 “Eres mi hijo.
+\q1 Ven a mí.”
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 126 
+
+\s Cuando me pastorea (Diosnï Michimaptin)
+\s2 Esta alabanza arregló, los Misioneros de
+\s2 La Unión, Dos de Mayo, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando Dios me pastorea
+\q1 vivo bien.
+\q1 En buenos pastos
+\q1 él mismo me pastorea.
+\q1 Cuando Dios me pastorea
+\q1 vivo bien.
+\q1 En buenos pastos
+\q1 él mismo me pastorea.
+\b 
+\s2 Coro:
+\q2 En la casa de Dios
+\q2 yo viviré
+\q2 para siempre.
+\q2 En la casa de Dios
+\q2 yo viviré
+\q2 para siempre.
+\b 
+\s2 2
+\q1 No tengo miedo
+\q1 cuando viene la muerte.
+\q1 Él mismo cuando me lleva
+\q1 viviré feliz.
+\q1 No tengo miedo
+\q1 cuando viene la muerte.
+\q1 Él mismo cuando me lleva
+\q1 viviré feliz.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 127 
+
+\s Por amor al hombre (Runacunata Cuyapashpanmi)
+\s2 Esta alabanza ha arreglado
+\s2 Leonel Menaćhu, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Por amor al hombre
+\q1 Dios envío
+\q1 a su único hijo amado.
+\q1 A su único hijo amado.
+\b 
+\s2 2
+\q1 Cualquiera que recibe
+\q1 no irá al infierno.
+\q1 Cuando llega su gloria se gozará.
+\q1 Tendrá vida eterna.
+\q1 Cuando llega su gloria se gozará.
+\q1 Tendrá vida eterna.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 128 
+
+\s El Señor Jesucristo con su poder (Munayniyuj Señor Jesucristu)
+\s2 Esta alabanza arregló
+\s2 Próspero Colonia Macedo, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El Señor Jesucristo con su poder
+\q1 nos llegará a su gloria.
+\q1 ¡Con qué gozo le alabaremos,
+\q1 con qué gozo le adoraremos!
+\q1 El Señor Jesucristo con su poder
+\q1 nos llegará a su gloria.
+\q1 ¡Con qué gozo le alabaremos,
+\q1 con qué gozo le adoraremos!
+\b 
+\s2 2
+\q1 Cuando es compasivo,
+\q1 cuando hay perdón,
+\q1 prediquemos su palabra.
+\q1 Lo que dijo Dios hay que recibir.
+\q1 Cuando es compasivo,
+\q1 cuando hay perdón,
+\q1 prediquemos su palabra.
+\q1 Lo que dijo Dios hay que recibir.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 129 
+
+\s En donde está Dios (Tayta Dios Cashanman)
+\s2 Esta alabanza arregló
+\s2 Asociación Alli Willaqui, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En donde está Dios
+\q1 Jesucristo me llevará.
+\q1 Él es el camino
+\q1 para llegar a su gloria.
+\b 
+\s2 2
+\q1 Sobre las nubes
+\q1 vendrá en cualquier momento
+\q1 para recibir.
+\q1 Hay que estar listos.
+\b 
+\s2 3
+\q1 Con él vivemos
+\q1 en su gloria.
+\q1 Donde hay luz
+\q1 a él le alabaremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 130 
+
+\s Al profeta Daniel lo echaron (Danielta Jitarpullaran)
+\s2 Esta alabanza arregló
+\s2 Próspero Colonia Macedo, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Al profeta Daniel lo echaron
+\q1 donde tenían hambre los leones
+\q1 que estaban encerrados.
+\q1 Al profeta Daniel lo echaron
+\q1 donde tenían hambre los leones
+\q1 que estaban encerrados.
+\q1 Aunque sea así,
+\q1 Dios le protegió.
+\q1 Los leones
+\q1 no se lo comieron a Daniel.
+\q1 Aunque sea así,
+\q1 Dios le protegió.
+\q1 Los leones
+\q1 no se lo comieron a Daniel.
+\b 
+\s2 2
+\q1 Hermanos, hermanas,
+\q1 ustedes también
+\q1 no tengan miedo.
+\q1 Hermanos, hermanas,
+\q1 ustedes también
+\q1 no tengan miedo.
+\q1 Ustedes también,
+\q1 cuando obedecen
+\q1 nuestro padre Dios
+\q1 les ayudará.
+\q1 Ustedes también,
+\q1 cuando obedecen
+\q1 nuestro padre Dios
+\q1 les ayudará.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 131 
+
+\s Era una señorita (Juc Jipash Caran)
+\s2 Esta alabanza arregló
+\s2 Próspero Colonia Macedo, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Era una señorita.
+\q1 Su nombre era Rut.
+\q1 Regresó su suegra
+\q1 a la ciudad de Belén.
+\q1 Cuando volvió allá le siguió Rut
+\q1 al compadecerse de su suegra anciana.
+\q1 Cuando volvió allá le siguió Rut
+\q1 al compadecerse de su suegra anciana.
+\b 
+\s2 2
+\q1 Por donde andas
+\q1 por ahí iremos.
+\q1 Donde vives
+\q1 yo también viviré.
+\q1 Tu pueblo será mi pueblo.
+\q1 Tu Dios será mi Dios.
+\q1 Tu pueblo será mi pueblo.
+\q1 Tu Dios será mi Dios.
+\b 
+\s2 3
+\q1 Hermano y hermana,
+\q1 así viviremos,
+\q1 amándonos.
+\q1 Hay que vivir bien.
+\q1 Cuando vivimos bien Dios nos recibirá.
+\q1 Nos llevará delante.
+\q1 Cuando vivimos bien Dios nos recibirá.
+\q1 Nos llevará delante.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 132 
+
+\s Seguiré a Cristo (Señor Jesústa Jatiraycä)
+\s2 Esta alabanza arregló
+\s2 Oswaldo Livia Rosales, Huacora, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Seguiré a Señor Jesús,
+\q1 seguiré a Señor Jesús,
+\q1 para recibir ropa blanca
+\q1 y una corona.
+\b 
+\s2 2
+\q1 Como sea seguiré.
+\q1 Aunque me odien seguiré predicando
+\q1 la palabra de Jesucristo.
+\q1 Los que reciben serán salvos.
+\b 
+\s2 3
+\q1 Cuando lleguemos delante de Dios
+\q1 entraremos a su gloria.
+\q1 Con Jesucristo nos gozaremos.
+\q1 Con los ángeles alabaremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 133 
+
+\s Señor Jesucristo tienes poder (Señor Jesucristu Munayniyuj)
+\s2 Esto canta Filomón Falcón Santos,
+\s2 Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El Señor Jesucristo tiene poder
+\q1 recibiendo el rollo lo abrirá.
+\q1 Cuando lo abre todos los ángeles
+\q1 se arrodillarán delante de ti.
+\q1 Por los hombres tú has muerto a la cruz.
+\q1 Dios salvó a los que confían.
+\q1 La familia que sea, ya has recibido,
+\q1 aunque hables diferentes idiomas.
+\b 
+\s2 2
+\q1 Aquel hombre que está en tu voluntad
+\q1 cuando te llama tú le escuchas.
+\q1 También los salvados que viven contigo
+\q1 tendrán poder contigo en esta tierra.
+\q1 Cuando tú eres Señor Jesucristo
+\q1 te seguiré sólo a ti con gozo.
+\q1 Viviré delante de ti,
+\q1 te alabaré sin cansar.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 134 
+
+\s En las nubes blancas (Yuraj Pucutay Janallanćhümi)
+\s2 Esto canta Filomón Falcón Santos,
+\s2 Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En las nubes blancas
+\q1 Jesucristo volverá.
+\q1 Cuando vuelva puesto una corona de oro.
+\q1 Juzgará a todos los hombres.
+\q1 Cuando vuelva puesto una corona de oro.
+\q1 Juzgará a todos los hombres.
+\b 
+\s2 2
+\q1 En donde está el templo de Dios
+\q1 saliendo el ángel llamará:
+\q1 “Está madura la cosecha de uva
+\q1 vayan a cosechar con tu hoz.”
+\q1 “Está madura la cosecha de uva
+\q1 vayan a cosechar con tu hoz.”
+\b 
+\s2 3
+\q1 Cuando dice nuestro Jesucristo
+\q1 con su poder regresará.
+\q1 Si confiamos en él, él nos recogerá,
+\q1 a otros castigará.
+\q1 Si confiamos en él, él nos recogerá,
+\q1 a otros castigará.
+\b 
+\s2 4
+\q1 Cuando dice así, hermano y hermana,
+\q1 confiando en él viviremos.
+\q1 Jesucristo nos recogerá
+\q1 para vivir en su gloria.
+\q1 Jesucristo nos recogerá
+\q1 para vivir en su gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 135 
+
+\s Los siete ángeles (Janćhisnintin Anjilcuna)
+\s2 Esto canta Filomón Falcón Santos,
+\s2 Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Los siete ángeles
+\q1 recibirán las trompetas.
+\q1 Luego tocarán
+\q1 como Dios ordena.
+\q1 Luego tocarán
+\q1 como Dios ordena.
+\b 
+\s2 2
+\q1 Cuando el primer ángel toca
+\q1 en esta tierra lloverá.
+\q1 Con fuego y granizo
+\q1 la mitad de la tierra se quemará.
+\q1 Con fuego y granizo
+\q1 la mitad de la tierra se quemará.
+\b 
+\s2 3
+\q1 Cuando el segundo ángel toca
+\q1 volverá quemada la tierra.
+\q1 Los mares se juntarán,
+\q1 se convertirán en sangre.
+\q1 Los mares se juntarán,
+\q1 se convertirán en sangre.
+\b 
+\s2 4
+\q1 Cuando el tercer ángel toca
+\q1 las estrellas calientes caerán.
+\q1 Los ríos y manantiales
+\q1 se convertirán en malos olores.
+\q1 Los ríos y manantiales
+\q1 se convertirán en malos olores.
+\b 
+\s2 5
+\q1 Cuando el cuarto ángel toca
+\q1 el sol y la luna se enfermará.
+\q1 Las estrellas no alumbrarán.
+\q1 No alumbrarán bien.
+\q1 Las estrellas no alumbrarán.
+\q1 No alumbrarán bien.
+\b 
+\s2 6
+\q1 Cuando el quinto ángel toca
+\q1 se abrirá el pozo de oscuridad.
+\q1 Aparecerán los grillos
+\q1 y harán padecer a los hombres.
+\q1 Aparecerán los grillos
+\q1 y harán padecer a los hombres.
+\b 
+\s2 7
+\q1 Cuando el sexto ángel toca
+\q1 los cuatro ángeles que están en el río
+\q1 aparecerán listos
+\q1 para terminar a la humanidad.
+\q1 aparecerán listos
+\q1 para terminar a la humanidad.
+\b 
+\s2 8
+\q1 Cuando el séptimo ángel toca
+\q1 se oirá del cielo:
+\q1 “Con su poder Dios
+\q1 venció a Satanás.”
+\q1 “Con su poder Dios
+\q1 venció a Satanás.”
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 136 
+
+\s Allá en el cielo (Janaj Sïlućhümi)
+\s2 "Dios está presente donde quiera que vayas" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Allá en el cielo
+\q1 está preparando mi casa.
+\q1 Allá en el cielo
+\q1 está preparando mi casa.
+\q1 Con gozo estoy
+\q1 alabando a Dios.
+\q1 Con gozo estoy
+\q1 alabando a Dios.
+\b 
+\s2 2
+\q1 Allá en el cielo
+\q1 espero mi corona.
+\q1 Allá en el cielo
+\q1 espero mi corona.
+\q1 Por eso soy obediente
+\q1 y hago lo que dice Dios.
+\q1 Por eso soy obediente
+\q1 y hago lo que dice Dios.
+\b 
+\s2 3
+\q1 Para los que creen,
+\q1 los que sirven a Dios…
+\q1 Para los que creen,
+\q1 los que sirven a Dios,
+\q1 hay una corona,
+\q1 hay casa también.
+\q1 Hay una corona,
+\q1 hay casa también.
+\b 
+\s2 4
+\q1 ¡Qué alegres
+\q1 llegaremos allí!
+\q1 ¡Qué alegres
+\q1 llegaremos allí!
+\q1 Con nuestro Dios Padre
+\q1 viviremos eternamente.
+\q1 Con nuestro Dios Padre
+\q1 viviremos eternamente.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 137 
+
+\s De la tierra Dios nos hizo (Allpallapitami Dios Ruramashcanchi)
+\s2 Esta alabanza canta
+\s2 Tólido Palacios, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Salvo de la tierra soy
+\q1 semejante a Dios.
+\q1 Salvo de la tierra soy
+\q1 semejante a Dios.
+\q1 Precio de su vida soy,
+\q1 con su sangre me compró.
+\q1 Precio de su vida soy,
+\q1 con su sangre me compró.
+\b 
+\s2 2
+\q1 Señor Jesucristo
+\q1 no me desampares.
+\q1 Señor Jesucristo
+\q1 no me desampares.
+\q1 Al recibirte a ti
+\q1 yo soy salvo.
+\q1 Al recibirte a ti
+\q1 yo soy salvo.
+\b 
+\s2 3
+\q1 Espíritu Santo
+\q1 nos ayuda.
+\q1 Espíritu Santo
+\q1 nos ayuda.
+\q1 Nos compadece,
+\q1 nos enseña.
+\q1 Nos compadece,
+\q1 nos enseña.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 138 
+
+\s Dios nos ve (Dios Ricamanchi Alli Ñawinwan)
+\s2 Esta alabanza cantó
+\s2 Tólido Palacios, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios nos ve
+\q1 desde el cielo,
+\q1 Dios nos ve
+\q1 desde el cielo,
+\q1 los que sabemos somos pecadores
+\q1 todos los hombres.
+\q1 los que sabemos somos pecadores
+\q1 todos los hombres.
+\b 
+\s2 2
+\q1 Dios está triste
+\q1 cuando hacemos mal.
+\q1 Dios está triste
+\q1 cuando hacemos mal.
+\q1 Dios nos ama,
+\q1 nos ayuda en este mundo difícil.
+\q1 Dios nos ama,
+\q1 nos ayuda en este mundo difícil.
+\b 
+\s2 3
+\q1 Si no crees
+\q1 no serás salvo.
+\q1 Si no crees
+\q1 no serás salvo.
+\q1 Sodoma, Gomorra,
+\q1 el fuego nos quemará.
+\q1 Sodoma, Gomorra,
+\q1 el fuego nos quemará.
+\b 
+\s2 4
+\q1 Si recibimos a Dios viviremos
+\q1 obedeciendo lo que dice.
+\q1 Si recibimos a Dios viviremos
+\q1 obedeciendo lo que dice.
+\q1 En donde vivimos hay que servir a Dios
+\q1 aunque sea de noche.
+\q1 En donde vivimos hay que servir a Dios
+\q1 aunque sea de noche.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 139 
+
+\s Estoy contento soy hijo de Dios (Nuwa Cushicümi Diospa Wamran Car)
+\s2 Esta alabanza canta
+\s2 Tólido Palacios, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Estoy contento,
+\q1 soy hijo de Dios.
+\q1 Estoy contento,
+\q1 soy hijo de Dios.
+\q1 Dios me salvó
+\q1 del pecado.
+\q1 Dios me salvó
+\q1 del pecado.
+\b 
+\s2 2
+\q1 Confía en Dios.
+\q1 Hermanos y hermanas,
+\q1 Confía en Dios.
+\q1 Hermanos y hermanas,
+\q1 Dios nos ama,
+\q1 Dios nos salva.
+\q1 Dios nos ama,
+\q1 Dios nos salva.
+\b 
+\s2 3
+\q1 Hay que alabar a Dios
+\q1 con todo el corazón.
+\q1 Hay que alabar a Dios
+\q1 con todo el corazón.
+\q1 Él nos ve
+\q1 y nos ayuda.
+\q1 Él nos ve
+\q1 y nos ayuda.
+\b 
+\s2 4
+\q1 Serviremos a Dios
+\q1 sin cansarnos.
+\q1 Serviremos a Dios
+\q1 sin cansarnos.
+\q1 Él tiene poder.
+\q1 Viviremos por la eternidad.
+\q1 Él tiene poder.
+\q1 Viviremos por la eternidad.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 140 
+
+\s Antes de amanecer hay que cantar (Cha‑Chacalla Cantaculläshun)
+\s2 Esta alabanza canta
+\s2 Tólido Palacios, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Antes de amanecer hay que cantar.
+\q1 Muy temprano hay que orar.
+\q1 Dios Padre nos escucha.
+\q1 En donde estamos él nos ve.
+\q1 Dios Padre nos escucha.
+\q1 En donde estamos él nos ve.
+\b 
+\s2 2
+\q1 Antes de amanecer hay que cantar.
+\q1 Muy temprano hay que orar.
+\q1 Predicaré su mensaje,
+\q1 para la salvación de los hombres.
+\q1 Predicaré su mensaje,
+\q1 para la salvación de los hombres.
+\b 
+\s2 3
+\q1 Las aves alaban a Dios
+\q1 Antes del amanecer cantan.
+\q1 para amanecer con nuevas fuerzas.
+\q1 y contentos con su alimento.
+\q1 Para amanecer con nuevas fuerzas,
+\q1 y contentos con su alimento.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 141 
+
+\s Hermana linda (Cuyay Panicuna)
+\s2 Esta alabanza canta
+\s2 Tólido Palacios, Huamalíes, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermana linda,
+\q1 hermano lindo,
+\q1 Hermana linda,
+\q1 hermano lindo,
+\q1 ¿estás haciendo
+\q1 lo que te ha dicho?
+\q1 ¿Estás haciendo
+\q1 lo que te ha dicho?
+\b 
+\s2 2
+\q1 Si todavía no haces,
+\q1 hazlo pronto.
+\q1 Si todavía no haces,
+\q1 hazlo pronto.
+\q1 No vayas a quedar,
+\q1 Cristo ya viene.
+\q1 No vayas a quedar,
+\q1 Cristo ya viene.
+\b 
+\s2 3
+\q1 Por encima de las nubes
+\q1 ya viene Cristo.
+\q1 Por encima de las nubes
+\q1 ya viene Cristo.
+\q1 Nadie sabe
+\q1 el día ni la hora.
+\q1 Nadie sabe
+\q1 el día ni la hora.
+\b 
+\s2 4
+\q1 A los que creen,
+\q1 a los que sirven…
+\q1 A los que creen,
+\q1 a los que sirven,
+\q1 “Ven aquí” dirá,
+\q1 “Aquí hay gozo.”
+\q1 “Ven aquí” dirá,
+\q1 “Aquí hay gozo.”
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 142 
+
+\s En este mundo soy huérfano (Cay Pachachüga Jurpallami Caycä)
+\s2 Esta alabanza arregló Sisineo Castillo Campos,
+\s2 Ticte, Dos de Mayo, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En este mundo soy huérfano.
+\q1 Me iré a su gloria.
+\q1 Jesucristo ahí me recibirá.
+\q1 Lo que él ha preparado me hará ver.
+\b 
+\s2 2
+\q1 Ya dejé de hacer pecado.
+\q1 Olvidaré las malas cosas.
+\q1 Recibiendo a mi Jesucristo,
+\q1 conforme a su voluntad estoy viviendo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 143 
+
+\s Iré a los pueblos (May Marcaćhüpis)
+\s2 Esta alabanza arregló
+\s2 Próspero Colonia Macedo, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 A los pueblos iré predicando,
+\q1 en Quechua hablaré
+\q1 los que escuchan con gozo
+\q1 el mensaje de Dios.
+\b 
+\s2 2
+\q1 Señor Jesús, ayúdame
+\q1 para hacer entender a mi prójimo.
+\q1 Para que reciba tu palabra,
+\q1 y reciba perdón para su salvación.
+\b 
+\s2 3
+\q1 Amigos ¿quién nos salvará
+\q1 si Dios nos juzgará?
+\q1 Si recibimos a Jesucristo
+\q1 él perdonará nuestro pecado.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 144 
+
+\s En la ciudad de Belén (Belén Marcaćhümi)
+\s2 Esta alabanza canta
+\s2 Gaudencio Vilca, Choras, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En la ciudad de Belén nació Jesús.
+\q1 Cuando nació Jesús los ángeles cantaron.
+\q1 Los pastores de ovejas lo fueron a ver.
+\q1 Encontrando con gozo alabaron a Jesús.
+\b 
+\s2 2
+\q1 Viendo la estrella los magos lo visitaron.
+\q1 Al encontrarlo con gozo lo adoraron.
+\q1 Delante de Jesús se arrodillaron.
+\q1 Lo que llevaron le dieron a Jesús.
+\b 
+\s2 3
+\q1 Hermanos y hermanas, los que creen,
+\q1 nosotros también adoremos a Jesús.
+\q1 Con todo el corazón alabaremos.
+\q1 Él nos ama. Él nos salva.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 145 
+
+\s Padre Dios, mi pastor (Dios Taytallä, Michimajnï)
+\s2 Esta alabanza canta
+\s2 Rómulo Sauñe, Huancavelica.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 Coro:
+\q2 Papá Dios,
+\q2 mi buen pastor eres tú.
+\q2 Nada me faltará.
+\q2 Papá Dios,
+\q2 mi buen pastor eres tú.
+\q2 Nada me faltará.
+\b 
+\s2 1
+\q1 En lugares de pastos verdes
+\q1 me pastoreará.
+\q1 En las aguas de reposo
+\q1 confortará mi alma.
+\b 
+\s2 Coro:
+\q2 Papá Dios,
+\q2 mi buen pastor eres tú.
+\q2 Nada me faltará.
+\q2 Papá Dios,
+\q2 mi buen pastor eres tú.
+\q2 Nada me faltará.
+\b 
+\s2 2
+\q1 Libra del pecado,
+\q1 por eso con gozo vivo.
+\q1 Cuando estoy muriendo tú me cuidas.
+\q1 Ya no tendré miedo.
+\b 
+\s2 Coro:
+\q2 Papá Dios,
+\q2 mi buen pastor eres tú.
+\q2 Nada me faltará.
+\q2 Papá Dios,
+\q2 mi buen pastor eres tú.
+\q2 Nada me faltará.
+\b 
+\s2 3
+\q1 Todos los días me estás viendo.
+\q1 Todos los días me ayudas.
+\q1 Cuando muero, con gozo me llevarás
+\q1 para vivir eternamente.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 146 
+
+\s Nuestro Dios poderoso (Munayniyuj Diosninchiga)
+\s2 Esta alabanza arregló
+\s2 Grupo Salmista, Tarma, Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Nuestro Dios poderoso
+\q1 está en todos los lugares.
+\q1 Nuestro Dios poderoso
+\q1 está en todos los lugares.
+\q1 Sabe lo que hago.
+\q1 Me ve como vivo.
+\q1 Sabe lo que hago.
+\q1 Me ve como vivo.
+\b 
+\s2 2
+\q1 ¿Dónde me esconderé
+\q1 de los ojos de Dios?
+\q1 ¿Dónde me esconderé
+\q1 de los ojos de Dios?
+\q1 Nunca escaparé de su mirada.
+\q1 Él mira a todos.
+\q1 Nunca escaparé de su mirada.
+\q1 Él mira a todos.
+\b 
+\s2 3
+\q1 En el frío, en las alturas,
+\q1 está tu presencia.
+\q1 Aunque esté dentro de las aguas
+\q1 me llevas de las manos.
+\q1 Cuando entre dentro de la tierra
+\q1 Ahí estás tú.
+\q1 Cuando entre dentro de la tierra
+\q1 Ahí estás tú.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 147 
+
+\s Cristo ya viene (Cristo Shamunnami)
+\s2 "Cristo Viene Pronto" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar, esperemos.
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar, esperemos.
+\q1 Amado hermano, amada hermana,
+\q1 Dios nos llevará a su presencia.
+\q1 Amado hermano, amada hermana,
+\q1 Dios nos llevará a su presencia.
+\b 
+\s2 2
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar, esperemos.
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar, esperemos.
+\q1 Amado hermano, amada hermana,
+\q1 Dios nos llevará a su presencia.
+\q1 Amado hermano, amada hermana,
+\q1 Dios nos llevará a su presencia.
+\b 
+\s2 3
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar esperemos.
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar esperemos.
+\q1 Dejando el pecado, dejando el pecado,
+\q1 esperemos a Jesús.
+\q1 Dejando el pecado, dejando el pecado,
+\q1 esperemos a Jesús.
+\b 
+\s2 4
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar esperemos.
+\q1 Cristo ya viene,
+\q1 Cristo ya viene.
+\q1 Sin olvidar esperemos.
+\q1 Él nos guiará, él nos llevará
+\q1 para estar en su gloria.
+\q1 Él nos guiará, él nos llevará
+\q1 para estar en su gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 148 
+
+\s Jesucristo nos dice (Jesucristo Nimanchi)
+\s2 "Cristo te Necesita" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo nos dice:
+\q1 Jesucristo nos dice:
+\q1 “Amémonos unos a otros”.
+\q1 “Amémonos unos a otros”.
+\q1 “Amémonos unos a otros”.
+\b 
+\s2 Coro:
+\q2 Para Dios no hay
+\q2 hombres despreciados.
+\q2 Ama a todos los hombres.
+\q2 Para Dios no hay
+\q2 hombres despreciados.
+\q2 Ama a todos los hombres.
+\b 
+\s2 2
+\q1 Al que viene de lejos…
+\q1 Al que viene de lejos,
+\q1 dale amor.
+\q1 Dale amor.
+\q1 Dale amor.
+\b 
+\s2 3
+\q1 Al que no te saluda…
+\q1 Al que no te saluda,
+\q1 dale amor.
+\q1 Dale amor.
+\q1 Dale amor.
+\b 
+\s2 4
+\q1 Al joven y al anciano…
+\q1 Al joven y al anciano,
+\q1 dales amor.
+\q1 Dales amor.
+\q1 Dales amor.
+\b 
+\s2 5
+\q1 A los que predican…
+\q1 A los que predican,
+\q1 dales amor.
+\q1 Dales amor.
+\q1 Dales amor.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 149 
+
+\s El Nuevo Testamento es para todas las personas (Musuhj Testamento Llapan Runapajmi)
+\s2 Esta alabanza arregló
+\s2 Oscar Huárac Sánchez, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 El Nuevo Testamento es para todas las personas.
+\q1 Veintisiete
+\q1 libros hay.
+\q1 San Mateo, San Marcos,
+\q1 San Lucas, San Juan,
+\q1 Hechos, Romanos,
+\q1 Corintios, Gálatas.
+\b 
+\s2 Coro:
+\q2 Estos libros son la palabra de Dios.
+\q2 Los que hablamos el quechua, hay que leer.
+\q2 Esto cuando aprendemos vamos a vivir bien.
+\q2 Cuando obedecemos seremos salvos.
+\b 
+\s2 2
+\q1 De Efesios viene Filipenses,
+\q1 Colosenses y Tesalonicenses.
+\q1 Luego llegas a Timoteo,
+\q1 luego a Tito, Filemón.
+\b 
+\s2 3
+\q1 De Hebreos viene Santiago,
+\q1 y después San Pedro,
+\q1 San Juan y San Judas.
+\q1 Apocalipsis leyendo terminamos.
+\q1 Estos libros son de la Biblia.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 150 
+
+\s Jesús me ama (Cuyapäcuj Jesúsnï)
+\s2 Esta alabanza canta
+\s2 Filomón Falcón Santos, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús me ama,
+\q1 con nosotros está.
+\q1 Él nos ayuda,
+\q1 nos salva.
+\b 
+\s2 2
+\q1 Dios compasivo
+\q1 vive en mi corazón.
+\q1 En cuanto me ayudas
+\q1 sólo confío en ti.
+\b 
+\s2 3
+\q1 Estoy contigo alegre
+\q1 todos los días confiando.
+\q1 Llévame cuando muero
+\q1 para estar delante de ti.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 151 
+
+\s Con mi Señor Jesucristo (Señor Jesucristuwanmi)
+\s2 Cayta Alabanzata Cantasha
+\s2 Filomón Falcón Santos, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Con mi Señor Jesucristo
+\q1 quiero vivir.
+\q1 Con mi Señor Jesucristo
+\q1 quiero vivir.
+\q1 Con todo mi corazón
+\q1 quiero servirle a él.
+\q1 Con todo mi corazón
+\q1 quiero servirle a él.
+\b 
+\s2 2
+\q1 Delante de Jesucristo
+\q1 yo quiero vivir.
+\q1 Delante de Jesucristo
+\q1 yo quiero vivir.
+\q1 Los pecados que cometí
+\q1 me los lavó con su sangre.
+\q1 Los pecados que cometí
+\q1 me los lavó con su sangre.
+\b 
+\s2 3
+\q1 Confiando en Cristo
+\q1 yo vivo contento.
+\q1 Confiando en Cristo
+\q1 yo vivo contento.
+\q1 Aunque vengan dificultades
+\q1 yo sólo confío en él.
+\q1 Aunque vengan dificultades
+\q1 yo sólo confío en él.
+\b 
+\s2 4
+\q1 Jesucristo me ama
+\q1 y me ayuda.
+\q1 Jesucristo me ama
+\q1 y me ayuda.
+\q1 Por donde yo estoy
+\q1 él está conmigo todos los días.
+\q1 Por donde yo estoy
+\q1 él está conmigo todos los días.
+\b 
+\s2 5
+\q1 Jesucristo poderoso,
+\q1 estoy en tus manos.
+\q1 Jesucristo poderoso,
+\q1 estoy en tus manos.
+\q1 Todos los días me cuidas
+\q1 para llevarme a tu gloria.
+\q1 Todos los días me cuidas
+\q1 para llevarme a tu gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 152 
+
+\s Cuando me enfermo (Jishya Charimaptin)
+\s2 Esta alabanza canta
+\s2 Filomón Falcón Santos, Margos, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cuando me enfermo
+\q1 Cristo me sana.
+\q1 Cuando vienen problemas
+\q1 Cristo me ayuda.
+\q1 Cuando no comprendo
+\q1 Cristo me enseña.
+\q1 Nos ayuda en todo.
+\q1 Nos ayuda en todo.
+\b 
+\s2 2
+\q1 Por donde camino
+\q1 Cristo está a mi lado.
+\q1 Cuando me odian mis prójimos
+\q1 Cristo me fortalece.
+\q1 Cuando quiero cantar
+\q1 Cristo me ayuda.
+\q1 Él nos ayuda en todo.
+\q1 Él nos ayuda en todo.
+\b 
+\s2 3
+\q1 Por donde predico
+\q1 Cristo me ayuda.
+\q1 Cuando suplico
+\q1 cada momento me escucha.
+\q1 Para vivir bien
+\q1 Cristo me hace entender.
+\q1 Él nos ayuda en todo.
+\q1 Él nos ayuda en todo.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 153 
+
+\s Jesucristo poderoso (Munayniyuj Jesucristu)
+\s2 Esta alabanza arregló
+\s2 “Equipo de Traductores” en Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1 
+\q1 Jesucristo poderoso
+\q1 muy pronto vendrá.
+\q1 Jesucristo poderoso
+\q1 muy pronto vendrá.
+\q1 Esperemos, hermanos.
+\q1 Confía, hermana.
+\q1 Esperemos, hermanos.
+\q1 Confía, hermana.
+\b 
+\s2 2
+\q1 Al volver recogerá
+\q1 a los que le recibieron.
+\q1 Al volver recogerá
+\q1 a los que le recibieron.
+\q1 En su gloria con él estaremos,
+\q1 con nuestro Padre compasivo.
+\q1 En su gloria con él estaremos,
+\q1 con nuestro Padre compasivo.
+\b 
+\s2 3
+\q1 Allí no habrá sufrimiento.
+\q1 Allí no habrá lloro.
+\q1 Allí no habrá sufrimiento.
+\q1 Allí no habrá lloro.
+\q1 Tristezas no habrá.
+\q1 Todos los días gozosos estaremos.
+\q1 Tristezas no habrá.
+\q1 Todos los días gozosos estaremos.
+\b 
+\s2 4
+\q1 Cuando todo es bueno, hermano,
+\q1 vivamos en armonía.
+\q1 Cuando todo es bueno, hermano,
+\q1 vivamos en armonía.
+\q1 A él solo le seguimos.
+\q1 Sólo a él le serviremos.
+\q1 A él solo le seguimos.
+\q1 Sólo a él le serviremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 154 
+
+\s Yo le sigo a Dios (Nuwa Jatirä Diosninchita)
+\s2 "He decidido seguir a Cristo" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Yo sigo a Dios
+\q1 por haber recibido su palabra.
+\q1 Yo sigo a Dios
+\q1 por haber recibido su palabra.
+\q1 Nunca le dejaré
+\q1 aunque vienen problemas.
+\q1 Nunca le dejaré
+\q1 aunque vienen problemas.
+\b 
+\s2 2
+\q1 Palabra de Jesucristo
+\q1 ya se está cumpliendo.
+\q1 Palabra de Jesucristo
+\q1 ya se está cumpliendo.
+\q1 Aunque no creen,
+\q1 Jesucristo volverá.
+\q1 Aunque no creen,
+\q1 Jesucristo volverá.
+\b 
+\s2 3
+\q1 A Dios serviré
+\q1 hasta cuando muero.
+\q1 A Dios serviré
+\q1 hasta cuando muero.
+\q1 Todos los días le seguiré
+\q1 tomando mi Biblia.
+\q1 Todos los días le seguiré
+\q1 tomando mi Biblia.
+\b 
+\s2 4
+\q1 Cuando hay aflicción y sufrimiento
+\q1 Cristo me da fuerzas.
+\q1 Cuando hay aflicción y sufrimiento
+\q1 Cristo me da fuerzas.
+\q1 Cuando sea lo que sea
+\q1 seguiré a Dios.
+\q1 Cuando sea lo que sea
+\q1 seguiré a Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 155 
+
+\s Polvo de la tierra soy (Allpallapitami Cä Nuwa)
+\s2 No se sabe quién cantó.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Polvo de la tierra soy,
+\q1 semejante al Señor.
+\q1 Polvo de la tierra soy,
+\q1 semejante al Señor.
+\q1 Precio de su vida soy.
+\q1 Con su sangre me compró.
+\q1 Precio de su vida soy.
+\q1 Con su sangre me compró.
+\b 
+\s2 2
+\q1 Con gozo le sigo
+\q1 a Cristo Jesús.
+\q1 Con gozo le sigo
+\q1 a Cristo Jesús.
+\q1 Él me da gozo en mi corazón.
+\q1 Todos los días me ama.
+\q1 Él me da gozo en mi corazón.
+\q1 Todos los días me ama.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 156 
+
+\s Nueva vida yo vivo (Mushuj Cawaytami Nuwa Cawä)
+\s2 Esto cantó Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Nueva vida yo vivo,
+\q1 nueva vida yo vivo.
+\q1 Jesucristo me ha perdonado,
+\q1 con su sangre me lavó.
+\b 
+\s2 2
+\q1 Me salvó de las malas obras.
+\q1 Dios me libró del pecado.
+\q1 Con su Espíritu me guía.
+\q1 Con gozo ahora vivo.
+\b 
+\s2 3
+\q1 Le alabo con gozo.
+\q1 Por eso todos los días le adoro.
+\q1 Él me hace entender, me da gozo.
+\q1 Él me ayuda, me ve.
+\b 
+\s2 4
+\q1 Me llevará a su gloria.
+\q1 Me recogerá en su delante.
+\q1 Sólo allí viviremos.
+\q1 Juntos con los ángeles viviremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 157 
+
+\s Señor Jesús ya volverá (Señor Jesúsmi Cutimungana)
+\s2 Cayta Cantasha Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesús ya volverá
+\q1 en las nubes blancas,
+\q1 a los que esperan lo llevará,
+\q1 de noche o de día.
+\b 
+\s2 2
+\q1 Él a mí: “Anda” me está diciendo
+\q1 para avisar a la gente.
+\q1 Conociendo la palabra de Dios hay que predicar
+\q1 para que aquellos también sean salvos.
+\b 
+\s2 3
+\q1 Señor Jesús te está llamando
+\q1 para que recibes tu salvación.
+\q1 Cuando confiesas tu pecado
+\q1 con su sangre te lavará.
+\b 
+\s2 4
+\q1 Dios Padre, ayúdame.
+\q1 Ayúdame a entender. Enséñame
+\q1 para vivir en armonía
+\q1 para hacer tu voluntad.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 158 
+
+\s Están preparando una morada allá en el cielo (Wasï Ruracaycan Janaj Pachaćhu)
+\s2 Esto canta Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Están preparando una morada allá en el cielo.
+\q1 Están preparando una morada allá en el cielo.
+\q1 Muy pronto volverá
+\q1 para llevarnos a su presencia.
+\b 
+\s2 2
+\q1 Allí no habrá enfermedades, ni sufrimientos.
+\q1 Allí no habrá enfermedades, ni sufrimientos.
+\q1 Jesucristo nos cuidará.
+\q1 En armonía viviremos.
+\b 
+\s2 3
+\q1 Y los que creyeron se juntarán.
+\q1 Y los que creyeron se juntarán.
+\q1 Recibiremos nuestra corona.
+\q1 Vestiremos ropa blanca.
+\b 
+\s2 4
+\q1 Pon en tu corazón la palabra de Dios.
+\q1 Pon en tu corazón la palabra de Dios.
+\q1 Dios lo que dijo no olvides,
+\q1 para que llegues en su gloria.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 159 
+
+\s Espíritu Santo ayúdame (Yanapaycallämay Espíritu Santu)
+\s2 Esto cantó Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Espíritu Santo, ayúdame
+\q1 para servirte sin cesar.
+\q1 A ti te ruego con todo mi corazón,
+\q1 téngame en tus manos.
+\b 
+\s2 2
+\q1 Espíritu Santo hazme entender
+\q1 para vivir conforme a tu voluntad,
+\q1 para ayudar a los perdidos
+\q1 y a los que viven en pecado para enseñarles.
+\b 
+\s2 3
+\q1 Señor Jesucristo llévame ya.
+\q1 No me dejes en esta tierra de sufrimiento.
+\q1 En tu palabra tú me has dicho:
+\q1 “Te llevaré, en donde está mi padre te recogeré.”
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 160 
+
+\s ¿Por qué tienes pena? (¿Imanirtaj Llaquicushwan?)
+\s2 Esto canta Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 ¿Por qué tienes pena?
+\q1 ¿Por qué lloras?
+\q1 Siendo hijo de Dios,
+\q1 mas con gozo viviremos.
+\b 
+\s2 2
+\q1 Hay que contarle a Dios.
+\q1 Hay que llorar a Dios.
+\q1 Hay que pedir a Dios.
+\q1 Dios nos amará.
+\b 
+\s2 3
+\q1 Mira las aves.
+\q1 Ellas viven cantando.
+\q1 Como las aves también
+\q1 nosotros alabaremos.
+\b 
+\s2 4
+\q1 Mira las flores.
+\q1 Ellas no hilan.
+\q1 Ellas no tejen.
+\q1 Que lindas se visten.
+\b 
+\s2 5
+\q1 A Dios de misericordia
+\q1 pongamos nuestra confianza.
+\q1 Como las aves y las flores
+\q1 alegre viviremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 161 
+
+\s Hermanos, hermanas (Wauguilläcuna, Panilläcuna)
+\s2 Esto canta Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Hermanos, hermanas
+\q1 en Jesucristo confiaremos.
+\q1 En su palabra nos ha dicho:
+\q1 “Aquí estoy con ustedes”.
+\b 
+\s2 2
+\q1 Como los años pasan,
+\q1 igual viviremos en este mundo.
+\q1 Cuando llegamos delante de él,
+\q1 nunca se acabará la vida.
+\b 
+\s2 3
+\q1 Al recibir gozosos
+\q1 le seguiremos y serviremos.
+\q1 Para ser fiel
+\q1 Dios me ayuda.
+\b 
+\s2 4
+\q1 Pecador, entiende ya.
+\q1 Abre tu corazón.
+\q1 Dios te ama.
+\q1 No te resistes tu salvación.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 162 
+
+\s Jesucristo ya vuelve pronto (Jesucristunchi Cutimunganami)
+\s2 Esto canta Eudocio Lazarte Santiago,
+\s2 Runtog, Chaulán, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo ya vuelve pronto.
+\q1 Preparémonos, hermanos y hermanas.
+\q1 Prediquemos su palabra.
+\q1 Jesucristo ya vuelve pronto.
+\b 
+\s2 2
+\q1 Terremotos habrán,
+\q1 sufrimientos y matanzas.
+\q1 Tengamos en cuenta, hermanos,
+\q1 Jesucristo ya vuelve.
+\b 
+\s2 3
+\q1 Dios dijo habrán miseria,
+\q1 enfermedades en el mundo.
+\q1 Preparémonos, hermanos y hermanas.
+\q1 Si te quedas sufrirás.
+\b 
+\s2 4
+\q1 En este mundo habrá lloro.
+\q1 Perdido vivirás.
+\q1 No habrá respeto dentro de la familia.
+\q1 Entre vecinos se odiarán.
+\b 
+\s2 5
+\q1 El agua se convertirá en sangre.
+\q1 Los animales morirán con enfermedades.
+\q1 para tener pena a los hombres.
+\q1 Llorarán para compadecer.
+\b 
+\s2 6
+\q1 Después Cristo regresará
+\q1 para recoger a los que creyeron.
+\q1 Los que no creyeron serán juzgados.
+\q1 Jesucristo ya volverá.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 163 
+
+\s Dios escúchame (Tayta Dios, Wiyaycallämay)
+\s2 Esta alabanza arregló
+\s2 Leonel Menaćhu López, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios, escúchame
+\q1 aunque cometo pecados.
+\q1 Con tu amor me has salvado.
+\q1 Llévame a tu presencia.
+\b 
+\s2 2
+\q1 Cuando yo vivo en tu casa
+\q1 en tú delante me gozaré.
+\q1 Haré tu voluntad
+\q1 y en tus manos viviré.
+\b 
+\s2 3
+\q1 Dios, sólo te pido a ti.
+\q1 Jesús, te ruego.
+\q1 Lo que te amo tú sabes.
+\q1 Tú pastoréame.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 164 
+
+\s Señor Jesucristo, soy un pecador (Señor Jesucristu Jućhasapami Cä)
+\s2 Esta alabanza arregló
+\s2 Leopoldo Rodriguez Broncano, Huaraz.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Señor Jesucristo,
+\q1 soy un pecador.
+\q1 Perdóname
+\q1 para estar sin pecado.
+\q1 Para estar sin pecado.
+\b 
+\s2 2
+\q1 Cuando hago pecado,
+\q1 cuando hago malas cosas,
+\q1 para vergüenza estoy
+\q1 delante de ti.
+\q1 Delante de ti.
+\b 
+\s2 3
+\q1 Padre bueno,
+\q1 buen Jesús,
+\q1 ayúdame tú,
+\q1 ten compasión de mí.
+\q1 Ten compasión de mí.
+\b 
+\s2 4
+\q1 Contigo viviré,
+\q1 contigo caminaré.
+\q1 Buen Jesús,
+\q1 guíame tú.
+\q1 Guíame tú.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 165 
+
+\s A la palabra de Dios hay que hacer caso (Tayta Diospa Palabranta Casocushun)
+\s2 Esta alabanza se canta San Martín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 La palabra de Dios
+\q1 hay que recibir y obedecer.
+\q1 La palabra de Dios
+\q1 hay que recibir y obedecer.
+\q1 Cuando Jesucristo vuelve
+\q1 nos llevará.
+\q1 Cuando Jesucristo vuelve
+\q1 nos llevará.
+\b 
+\s2 Coro:
+\q2 Por donde vaya,
+\q2 cantando caminaré,
+\q2 orando a Dios
+\q2 y cantando a Dios.
+\q2 Por donde vaya,
+\q2 cantando caminaré,
+\q2 orando a Dios
+\q2 y cantando a Dios.
+\b 
+\s2 2
+\q1 Hermano, hermana,
+\q1 confía en Dios.
+\q1 Hermano, hermana,
+\q1 confía en Dios.
+\q1 Jesucristo volverá
+\q1 a la hora que no sabes.
+\q1 Jesucristo volverá
+\q1 a la hora que no sabes.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 166 
+
+\s En el monte Carmelo (Carmelo Nishan Juc Jircaćhu)
+\s2 Esto canta Callejón de Huaylas.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 En el monte Carmelo
+\q1 ha demostrado su poder.
+\q1 En el monte Carmelo
+\q1 ha demostrado su poder.
+\q1 El fuego de Dios cayó
+\q1 quemando el altar.
+\q1 El fuego de Dios cayó
+\q1 quemando el altar.
+\b 
+\s2 Coro:
+\q2 Dios Padre,
+\q2 Dios verdadero,
+\q2 no hay otro
+\q2 como Dios poderoso.
+\q2 Dios Padre,
+\q2 Dios verdadero,
+\q2 no hay otro
+\q2 como Dios poderoso.
+\b 
+\s2 2
+\q1 Los cerros silvestres,
+\q1 y demonios,
+\q1 Los cerros silvestres,
+\q1 y demonios,
+\q1 no hay otro
+\q1 como Dios poderoso.
+\q1 no hay otro
+\q1 como Dios poderoso.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 167 
+
+\s Vida nueva llegará (Mushuj Caway Ćhayamush)
+\s2 "Vida nueva llegará" a esta alabanza iguala.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Vida nueva llegará,
+\q1 vida antigua pasará.
+\q1 Vida nueva llegará,
+\q1 vida antigua pasará.
+\q1 Yo contigo quiero vivir.
+\q1 Tú pues ayúdame, Señor.
+\q1 Yo contigo quiero vivir.
+\q1 Tú pues ayúdame, Señor.
+\b 
+\s2 2
+\q1 Jesucristo Salvador,
+\q1 en tus pasos quiero seguir.
+\q1 Jesucristo Salvador,
+\q1 en tus pasos quiero seguir.
+\q1 Ten compasión de mí, Jesús.
+\q1 Ayúdame, Señor.
+\q1 Ten compasión de mí, Jesús.
+\q1 Ayúdame, Señor.
+\b 
+\s2 3
+\q1 Dejaré el pecado,
+\q1 haré el bien.
+\q1 Dejaré el pecado,
+\q1 haré el bien.
+\q1 Sólo para ti,
+\q1 viviré Dios.
+\q1 Sólo para ti,
+\q1 viviré Dios.
+\b 
+\s2 4
+\q1 Contigo quiero caminar,
+\q1 contigo quiero vivir.
+\q1 Contigo quiero caminar,
+\q1 contigo quiero vivir.
+\q1 Sólo confío en ti
+\q1 para alabarte.
+\q1 Sólo confío en ti
+\q1 para alabarte.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 168 
+
+\s Jesucristo Me Ama (Jesúsnï Cuyacujmi Canqui)
+\s2 Esto canta Gomer Cadillo Ochoa,
+\s2 Punchao, Huamalíes, Huánuco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesús me ama.
+\q1 Jesús me ama.
+\q1 Te pido para vivir bien,
+\q1 que me acompañes, Dios mío.
+\q1 Te pido para vivir bien,
+\q1 que me acompañes, Dios mío.
+\b 
+\s2 2
+\q1 Dios mío enséñame tú.
+\q1 Dios mío enséñame tú.
+\q1 Para anunciar tu palabra
+\q1 y a los perdidos para avisar.
+\q1 para anunciar tu palabra
+\q1 y a los perdidos para avisar.
+\b 
+\s2 3
+\q1 Él que recibe el buen mensaje…
+\q1 Él que recibe el buen mensaje
+\q1 tu hijo con gozo estará.
+\q1 Conforme tu voluntad vivirá.
+\q1 tu hijo con gozo estará.
+\q1 Conforme tu voluntad vivirá.
+\b 
+\s2 4
+\q1 Espíritu Santo ayúdame
+\q1 Espíritu Santo ayúdame
+\q1 para entender bien tu palabra
+\q1 para obedecer conforme a tu voluntad.
+\q1 para entender bien tu palabra
+\q1 para obedecer conforme a tu voluntad.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 169 
+
+\s Ya viene la buena noticia (Alli Willacuy Shamuran)
+\s2 Esta alabanza arregló
+\s2 “Equipo de Traductores” Huánuco
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Ya viene la buena noticia,
+\q1 del cielo ya viene.
+\q1 Ya viene la buena noticia,
+\q1 del cielo ya viene.
+\q1 Jesucristo ha traído
+\q1 salvación a esta tierra.
+\q1 Jesucristo ha traído
+\q1 salvación a esta tierra.
+\b 
+\s2 2
+\q1 Te amo, hermano (hermana).
+\q1 Juntémonos con alegría.
+\q1 Amo a mis hermanos (hermanas).
+\q1 Alabaremos con alegría.
+\q1 Cuando regrese Cristo
+\q1 nos llevará.
+\q1 Cuando regrese Cristo
+\q1 nos llevará.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 170 
+
+\s A su único hijo (Japallan Wamranta)
+\s2 Esta alabanza se cantó Piscobamba, Ancash
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 A su único Hijo Dios envió
+\q1 para salvar a los hermanos perdidos.
+\q1 Si recibimos a Jesucristo,
+\q1 de nuestros pecados somos perdonados.
+\b 
+\s2 Coro:
+\q2 Hermano lindo, hermana linda,
+\q2 Dios nos ama y nos ayuda.
+\q2 Serviremos hasta la muerte.
+\q2 Él nos cuida, nos salva.
+\b 
+\s2 2
+\q1 Estando en sus manos a él le alabaremos.
+\q1 Porque él es bueno le adoramos.
+\q1 Llegando al cielo en su delante estaremos.
+\q1 Allí nos gozaremos para siempre.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 171 
+
+\s Amoroso eres (Cuyacujmi Canqui)
+\s2 Esto cantó Conjunto de Huaripata,
+\s2 Vilcabamba, Ancásh
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Dios, eres amor.
+\q1 Dios, eres misericordioso.
+\q1 Te ruego a ti en esta tierra,
+\q1 ayúdame todos los días.
+\b 
+\s2 2
+\q1 Dios, eres perdonador.
+\q1 Dios de salvación
+\q1 en ti confío en este mundo.
+\q1 Por eso te alabaré todos los días.
+\b 
+\s2 3
+\q1 Poderoso eres, Dios.
+\q1 Dios hace milagro con su poder.
+\q1 Sólo para ti yo vivo en esta tierra.
+\q1 Te serviré todos los días.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 172 
+
+\s Cantemos todos (Cantashun Llapanchi)
+\s2 Esto canta  Grupo Salmista, Tarma, Junín.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Cantemos todos
+\q1 a una sola voz a Jesús.
+\q1 Así cuando cantamos
+\q1 que alegría será.
+\q1 Seremos para Dios.
+\b 
+\s2 2
+\q1 Estando con gozo
+\q1 alabaremos a Dios.
+\q1 Allá en el cielo
+\q1 está Dios.
+\q1 Allí será gozo.
+\b 
+\s2 3
+\q1 Los que odian a su prójimo
+\q1 lo que dice Dios no obedecen.
+\q1 Si vive en su pecado
+\q1 avergonzado estará
+\q1 delante de Dios.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 173 
+
+\s Jesús habló con Simón (Jesúswan Simón Parlashan)
+\s2 Esta alabanza arregló «Taller de escritores» nishanman aywajcuna, Huánuco.
+\s2 Se base en San Lucas 5:1-11.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Al lado del mar de Galilea
+\q1 Jesucristo predicó.
+\q1 Multitud de gente le seguían
+\q1 para escuchar su palabra.
+\q1 Al lado del mar de Galilea
+\q1 Jesucristo predicó.
+\q1 Multitud de gente le seguían
+\q1 para escuchar su palabra.
+\b 
+\s2 2
+\q1 Subiendo en el barco de Simón Pedro,
+\q1 “Llévame un poco más allá”.
+\q1 Subió al bote
+\q1 sentándose enseñaba.
+\q1 Subiendo en el barco de Simón Pedro,
+\q1 “Llévame un poco más allá”.
+\q1 Subió al bote
+\q1 sentándose enseñaba.
+\b 
+\s2 3
+\q1 Al escuchar su palabra de Jesús
+\q1 Simón echó su red al mar.
+\q1 Pescó cantidad,
+\q1 por abundancia de peces no resistió su red.
+\q1 Al escuchar su palabra de Jesús
+\q1 Simón echó su red al mar.
+\q1 Pescó cantidad,
+\q1 por abundancia de peces no resistió su red.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 174 
+
+\s Jesucristo nos habla (Jesucristu Willamanchi)
+\s2 Esta alabanza arregló
+\s2 «Taller de escritores» nishanman aywajcuna, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jesucristo nos habla
+\q1 en su palabra.
+\q1 Viviendo sufriendo y llorando
+\q1 llegaremos a su presencia.
+\b 
+\s2 2
+\q1 Sí somos de buen corazón en esta tierra,
+\q1 dejaremos el pecado.
+\q1 llegaremos delante de él
+\q1 para vivir eterno.
+\b 
+\s2 3
+\q1 Sí vivimos en armonía
+\q1 también Dios nos amará.
+\q1 Escuchará nuestra petición.
+\q1 Por su hijo nos recibirá.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 175 
+
+\s Jehová es mi pastor (Tayta Diosninchi Michimajnï)
+\s2 Esta alabanza arregló
+\s2 «Taller de escritores» en los que dijo me voy, Huánuco.
+\rem (Esta traducción está en estado borrador.)
+\b 
+\s2 1
+\q1 Jehová es mi pastor.
+\q1 Nada me faltará.
+\q1 En lugares pasto me hará descansar.
+\q1 Junto a las aguas de reposo me pastoreará.
+\b 
+\s2 2
+\q1 Cuando estoy cansado, me da fuerza.
+\q1 Me hará caminar por buen camino.
+\q1 Tiene compasión, me ayuda
+\q1 para no tener miedo a morir.
+\b 
+\s2 3
+\q1 Su amor nunca termina.
+\q1 Su misericordia nunca termina.
+\q1 Por eso vivimos delante de él.
+\q1 por la eternidad viviremos.
+\b  \b  \b  \s2 ¿Ves un problema con la traducción?? Avísanos por favor. Mira el rincón superior izquierda, marca la flechita (←), después las tres líneas (☰), después "Información y contactos", y después el botón verde "Sugerir Cambios".\q1 \c 176 
+
+\s Escribe una alabanza lo que sabes
